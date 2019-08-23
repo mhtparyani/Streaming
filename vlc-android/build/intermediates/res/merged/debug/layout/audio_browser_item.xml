@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+                                           
+
+                                                
+
+                                                                          
+
+                 
+                            
+                         
+
+
+                 
+                       
+                                      
+
+                 
+                        
+                                                              
+
+                 
+                          
+                         
+
+
+                 
+                         
+                                                                                        
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+                                       
+        android:clickable="true"
+        android:focusable="true"
+        android:longClickable="true"
+        android:minHeight="@dimen/audio_browser_item_size"
+                                            
+        android:tag="layout/audio_browser_item_0"     xmlns:android="http://schemas.android.com/apk/res/android" xmlns:vlc="http://schemas.android.com/apk/res-auto">
+
+        <!-- Image loading is handled by org.videolan.vlc.gui.helpers.ImageLoader.loadImage() -->
+        <ImageView
+            android:id="@+id/item_move"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:contentDescription="@string/more_actions"
+            android:scaleType="center"
+            android:src="@drawable/ic_move_media"
+            android:visibility="gone"                                                             
+            android:tag="binding_1"                        
+            vlc:layout_constraintBottom_toBottomOf="@+id/subtitle"
+            vlc:layout_constraintStart_toStartOf="parent"
+            vlc:layout_constraintTop_toTopOf="@+id/title" />
+
+        <org.videolan.vlc.gui.view.FadableImageView
+            android:id="@+id/media_cover"
+            android:layout_height="@dimen/audio_browser_item_size"
+            android:layout_width="0dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:tag="binding_2"      
+                                                     
+            android:visibility="gone"                                                                                                                                                              
+            vlc:layout_constraintBottom_toBottomOf="parent"
+            vlc:layout_constraintDimensionRatio="1"
+            vlc:layout_constraintTop_toTopOf="parent"
+            vlc:layout_constraintStart_toEndOf="@id/item_move"
+            android:layout_gravity="center"
+                               />
+
+
+        <!-- TextView must be set to singleLine
+            see https://code.google.com/p/android/issues/detail?id=33868 -->
+        <TextView
+            android:id="@+id/title"
+            style="@style/VLC.TextViewTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/default_margin"
+            android:gravity="center_vertical"
+            android:tag="binding_3"     
+                                         
+            vlc:layout_constraintBottom_toTopOf="@+id/subtitle"
+            vlc:layout_constraintEnd_toStartOf="@+id/item_more"
+            vlc:layout_constraintStart_toEndOf="@+id/media_cover"
+            vlc:layout_constraintTop_toTopOf="parent"
+            vlc:layout_constraintVertical_chainStyle="packed"
+            vlc:layout_goneMarginEnd="@dimen/default_margin_plus_audio_margin"
+            vlc:layout_goneMarginStart="@dimen/default_margin_plus_audio_margin"
+                                      />
+
+        <TextView
+            android:id="@+id/subtitle"
+            style="@style/VLC.TextViewDescription"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:tag="binding_4"            
+            vlc:layout_constraintBottom_toBottomOf="parent"
+            vlc:layout_constraintEnd_toEndOf="@+id/title"
+            vlc:layout_constraintStart_toStartOf="@+id/title"
+            vlc:layout_constraintTop_toBottomOf="@+id/title"
+                                      />
+
+        <ImageView
+                android:id="@+id/item_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/more_actions"
+                android:tag="binding_5"                 
+                android:scaleType="center"
+                android:src="@drawable/ic_more"
+                vlc:layout_constraintBottom_toBottomOf="@+id/subtitle"
+                vlc:layout_constraintEnd_toEndOf="parent"
+                vlc:layout_constraintTop_toTopOf="@+id/title"
+                android:layout_marginEnd="8dp"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

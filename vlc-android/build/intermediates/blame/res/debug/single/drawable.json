@@ -1,0 +1,1210 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rewind_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_rewind_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_popup_expand.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_popup_expand.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search_normal.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_search_normal.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_player_disabled.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_play_player_disabled.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\po_seekbar_video.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\po_seekbar_video.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_equalizer_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_equalizer_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playlist.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playlist.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_storage.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_storage.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search_pressed.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_search_pressed.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\fastscroll_track_drawable.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\fastscroll_track_drawable.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corners_grey.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\rounded_corners_grey.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_setb.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_setb.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_audioprogressbar.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\tv_audioprogressbar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_am_playlist_up_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_am_playlist_up_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_refresh.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_refresh.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_next_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_next_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_pause_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_pause_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_circle_card.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_play_circle_card.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_normal.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_more_normal.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_previous_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_previous_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_subtitle_open_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_subtitle_open_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_song.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_song.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_onboarding_previous_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_onboarding_previous_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_am_addtoplaylist_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_am_addtoplaylist_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_circle_right_orange_selector.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\rectangle_circle_right_orange_selector.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_preview_b.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\widget_preview_b.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\black_gradient.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\black_gradient.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_am_playlist_down_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_am_playlist_down_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_next.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_setb_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_setb_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_forward_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_forward_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sleep.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_sleep.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corners.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_divider.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_divider.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_play_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_song_big.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_song_big.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playasaudio_off.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playasaudio_off.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_card.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_more_card.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\fastscroller_bubble.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\fastscroller_bubble.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playlist_on.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playlist_on.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_previous.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_previous.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_passthrough_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_passthrough_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dial_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_dial_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_lastplaylist.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_lastplaylist.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playasaudio_off_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playasaudio_off_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_previous_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_previous_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_video_track_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_video_track_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_next_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_next_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_bottom_border.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\edittext_bottom_border.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sort_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_sort_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_half_seek_rewind_tv.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_half_seek_rewind_tv.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_am_renderer_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_am_renderer_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tv_list_delete.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_tv_list_delete.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_speed.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_speed.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_snackbar_background.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\drawable\\mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_subtitledelay_on.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_subtitledelay_on.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material_anim.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_repeat.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_repeat.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_playback_now_playing_bar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\drawable\\lb_playback_now_playing_bar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playasaudio_on.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playasaudio_on.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_next_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_next_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_options_background.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\advanced_options_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_seta_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_seta_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tv_list_play_big.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_tv_list_play_big.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_equalizer.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_equalizer.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_jumpto_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_jumpto_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_previous.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_previous.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_up_on_circle_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_up_on_circle_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_options_background_light.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\advanced_options_background_light.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material_anim.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_speed_reset.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_speed_reset.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_downsub_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_downsub_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_popup_dim.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_popup_dim.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_circle_right_white_selector.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\rectangle_circle_right_white_selector.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_mini_player_dark.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\progress_mini_player_dark.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_album.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_album.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_now_playing.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\anim_now_playing.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_backspace_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_backspace_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_audiotrack_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_audiotrack_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_am_ringtone_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_am_ringtone_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_audiotrack_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_audiotrack_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_save_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_save_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\divider_tv_card_content_dark.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\divider_tv_card_content_dark.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shuffle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_shuffle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_move_media.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_move_media.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_save.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_am_renderer_on_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_am_renderer_on_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_play.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_play.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_reset_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_reset_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shuffle_tv_player_on.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_shuffle_tv_player_on.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_shuffle_on.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_shuffle_on.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_crop_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_crop_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_speed_on.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_speed_on.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_search_orb.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\drawable\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_widget.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\progress_widget.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_circle_right_white.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\rectangle_circle_right_white.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_trash.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_trash.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_reset.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_reset.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\button_oval.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\button_oval.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_advanced_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_advanced_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_audiodelay.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_audiodelay.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tv_list_moveup.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_tv_list_moveup.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_duration.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_duration.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_header_tv.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_header_tv.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_reset_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_reset_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_screenshare_circle_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_screenshare_circle_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_background.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\drawable\\lb_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dial.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_dial.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_reporter_background.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_launcher_reporter_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_subtitledelay.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_subtitledelay.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_mini_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\progress_mini_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_search_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_view_grid.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_view_grid.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_navmenu_circle_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_navmenu_circle_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_locked_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_locked_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_reporter_foreground.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_launcher_reporter_foreground.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sleep_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_sleep_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_card_background.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\tv_card_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playlist_normal_o.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playlist_normal_o.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_audiodelay_on.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_audiodelay_on.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_pause.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_pause.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_next.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_next.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\background_simple_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\background_simple_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_half_seek_rewind.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_half_seek_rewind.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_sort_tv.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_sort_tv.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_progressbar_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\gridview_progressbar_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_playback_progress_bar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\drawable\\lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\fastscroller_handle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\fastscroller_handle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\background_chapter_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\background_chapter_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tv_list_addtoplaylist.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_tv_list_addtoplaylist.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_down_on_circle_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_down_on_circle_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_repeat_all.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_repeat_all.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\fastscroll_track.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\fastscroll_track.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\white_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\white_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle_circle_right_orange.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\rectangle_circle_right_orange.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tv_list_play.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_tv_list_play.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\gridview_progressbar.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\gridview_progressbar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search_normal_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_search_normal_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sleep_on.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_sleep_on.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\orange_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_play_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_no_song_vertical.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_no_song_vertical.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tv_list_movedown.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_tv_list_movedown.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_search.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_search.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\button_circle_orange_selector.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\button_circle_orange_selector.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_audiodelay_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_audiodelay_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dial_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_dial_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corners_black_more_transparent.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\rounded_corners_black_more_transparent.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tv_list_playnext.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_tv_list_playnext.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_renderer_circle_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_renderer_circle_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_speed_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_speed_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\half_circle_tv_left.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\half_circle_tv_left.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_view_list.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_view_list.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_circle_audio_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_circle_audio_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\header_background_content.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\header_background_content.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\grey_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_play_pause.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\anim_play_pause.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_speech_orb.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\drawable\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_reset.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_reset.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_popup_dim_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_popup_dim_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_repeat_one.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_repeat_one.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\empty.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\empty.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\button_circle_white_selector.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\button_circle_white_selector.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent_orange_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\transparent_orange_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\cursor_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\cursor_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_pause_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lock_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_lock_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_play_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_play_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_sort.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_menu_sort.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rewind_player_disabled.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_rewind_player_disabled.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_checkbox_false.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_checkbox_false.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_close_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\cone.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\cone.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_up_on_circle_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_up_on_circle_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_normal_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_more_normal_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\half_circle_tv_right.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\half_circle_tv_right.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chapter_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_chapter_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playasaudio_on_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playasaudio_on_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playlist_circle_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playlist_circle_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_down_on_circle_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_down_on_circle_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_reset_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_reset_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_sheet_background.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\bottom_sheet_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_seta_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_seta_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_circle_pressed.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\orange_circle_pressed.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7a34a6cbb6c2d907cff284bab470b5d9\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_no_song_background.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_no_song_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_am_information_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_am_information_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_close.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_close.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playlist_normal_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playlist_normal_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_reset_o.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_reset_o.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_dark.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\gradient_background_dark.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_am_append_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_am_append_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_close_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_close_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_previous_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_previous_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playlist_pressed.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playlist_pressed.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_am_playasaudio_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_am_playasaudio_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playlist_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playlist_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\header_background_no_content.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\header_background_no_content.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_onboarding_start_button_background.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\drawable\\lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_pressed.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_more_pressed.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\lb_headers_right_fading.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\drawable\\lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_setb_circle.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_setb_circle.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_play_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_passthrough.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_passthrough.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\video_list_length_bg.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\video_list_length_bg.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_more_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_half_seek_forward.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_half_seek_forward.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_preview_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\widget_preview_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\fastscroll_thumb_drawable.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\fastscroll_thumb_drawable.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_popup_expand_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_popup_expand_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_repeat_one_pressed.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_repeat_one_pressed.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_half_seek_forward_tv.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_half_seek_forward_tv.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_foreground.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playlist_normal.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playlist_normal.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_subtitledelay_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_subtitledelay_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_widget_onboarding_next_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_widget_onboarding_next_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tv_list_append.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_tv_list_append.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rotate_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_rotate_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tv_list_removefromplaylist.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_tv_list_removefromplaylist.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_subtitle_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_subtitle_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_light.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\gradient_background_light.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_background.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_small.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_close_small.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_forward_player_disabled.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_forward_player_disabled.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_renderer_on_circle_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_renderer_on_circle_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_orange.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\circle_orange.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\fastscroll_thumb.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\fastscroll_thumb.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_abrepeat_seta.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_abrepeat_seta.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_circle_normal.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\orange_circle_normal.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_selection_rounded.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\theme_selection_rounded.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_trash_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_trash_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_passthrough_on.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_passthrough_on.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_chapter.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_chapter.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_background_tv.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\gradient_background_tv.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_screenshare_stop_circle_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_screenshare_stop_circle_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_pause_play.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\anim_pause_play.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_more_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_more_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\cursor_o.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\cursor_o.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_checkbox_partialy.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_checkbox_partialy.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_checkbox_true.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_checkbox_true.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\device_dialog_background.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\device_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_playlist_previous_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_playlist_previous_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_jumpto.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable\\ic_jumpto.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\drawable\\notification_bg_low.xml"
+    }
+]

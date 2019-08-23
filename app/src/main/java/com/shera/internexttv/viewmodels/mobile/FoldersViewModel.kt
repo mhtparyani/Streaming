@@ -1,0 +1,74 @@
+/*****************************************************************************
+ * FoldersViewModel.kt
+ *****************************************************************************
+ * Copyright © 2019 VLC authors and VideoLAN
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston MA 02110-1301, USA.
+ *****************************************************************************/
+
+package com.shera.internexttv.viewmodels.mobile
+
+import android.content.Context
+import androidx.lifecycle.ViewModel
+import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.ViewModelProviders
+import kotlinx.coroutines.*
+import org.videolan.medialibrary.interfaces.media.AbstractFolder
+import org.videolan.medialibrary.media.MediaLibraryItem
+import com.shera.internexttv.gui.folders.FoldersFragment
+import com.shera.internexttv.media.MediaUtils
+import com.shera.internexttv.media.getAll
+import com.shera.internexttv.providers.medialibrary.FoldersProvider
+import com.shera.internexttv.providers.medialibrary.MedialibraryProvider
+import com.shera.internexttv.viewmodels.MedialibraryViewModel
+
+
+@ExperimentalCoroutinesApi
+@ObsoleteCoroutinesApi
+class FoldersViewModel(context: Context, val type : Int) : MedialibraryViewModel(context) {
+    val provider = FoldersProvider(context, this, type)
+    override val providers: Array<MedialibraryProvider<out MediaLibraryItem>> = arrayOf(provider)
+
+    suspend fun play(position: Int) {
+        val list = withContext(Dispatchers.IO) { provider.pagedList.value?.get(position)?.getAll()}
+        list?.let { MediaUtils.openList(context, it, 0) }
+    }
+
+    suspend fun append(position: Int) {
+        val list = withContext(Dispatchers.IO) { provider.pagedList.value?.get(position)?.getAll()}
+        list?.let { MediaUtils.appendMedia(context, it) }
+    }
+
+    fun playSelection(selection: List<AbstractFolder>) = launch {
+        val list = selection.flatMap { it.getAll() }
+        MediaUtils.openList(context, list, 0)
+    }
+
+    fun appendSelection(selection: List<AbstractFolder>) = launch {
+        val list = selection.flatMap { it.getAll() }
+        MediaUtils.appendMedia(context, list)
+    }
+
+    class Factory(val context: Context, val type : Int): ViewModelProvider.NewInstanceFactory() {
+        override fun <T : ViewModel> create(modelClass: Class<T>): T {
+            @Suppress("UNCHECKED_CAST")
+            return FoldersViewModel(context.applicationContext, type) as T
+        }
+    }
+}
+
+@ObsoleteCoroutinesApi
+@ExperimentalCoroutinesApi
+internal fun FoldersFragment.getViewModel() = ViewModelProviders.of(requireActivity(), FoldersViewModel.Factory(requireContext(), AbstractFolder.TYPE_FOLDER_VIDEO)).get(FoldersViewModel::class.java)

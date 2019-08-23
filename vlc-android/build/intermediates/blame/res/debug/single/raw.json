@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_no_input.ogg",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_open.ogg",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\raw\\lb_voice_open.ogg"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_success.ogg",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\raw\\lb_voice_success.ogg"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\raw\\lb_voice_failure.ogg",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\raw\\lb_voice_failure.ogg"
+    }
+]

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\res\\merged\\debug\\values-ur\\values-ur.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-ur\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "163,104,220",
+                        "endColumns": "55,57,53",
+                        "endOffsets": "214,157,269"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "156,212,270",
+                        "endColumns": "55,57,53",
+                        "endOffsets": "207,265,319"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-ur\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "163,104,220",
+                        "endColumns": "55,57,53",
+                        "endOffsets": "214,157,269"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "156,212,270",
+                        "endColumns": "55,57,53",
+                        "endOffsets": "207,265,319"
+                    }
+                }
+            ]
+        }
+    ]
+}

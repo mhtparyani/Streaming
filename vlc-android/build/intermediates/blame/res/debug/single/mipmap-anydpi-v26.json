@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26\\ic_launcher_reporter_round.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\mipmap-anydpi-v26\\ic_launcher_reporter_round.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26\\ic_launcher_reporter.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\mipmap-anydpi-v26\\ic_launcher_reporter.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26\\ic_launcher.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

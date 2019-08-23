@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="unknown_album">Onbekend album</string>
+    <string name="unknown_artist">Onbekende artiest</string>
+    <string name="unknown_genre">Onbekend genre</string>
+    <string name="various_artists">Diverse artiesten</string>
+</resources>

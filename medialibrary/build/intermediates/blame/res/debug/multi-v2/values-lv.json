@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\res\\merged\\debug\\values-lv\\values-lv.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-lv\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,104,228",
+                        "endColumns": "57,63,56",
+                        "endOffsets": "222,163,280"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "156,214,278",
+                        "endColumns": "57,63,56",
+                        "endOffsets": "209,273,330"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lv\\values-lv.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-lv\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,104,228",
+                        "endColumns": "57,63,56",
+                        "endOffsets": "222,163,280"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "156,214,278",
+                        "endColumns": "57,63,56",
+                        "endOffsets": "209,273,330"
+                    }
+                }
+            ]
+        }
+    ]
+}

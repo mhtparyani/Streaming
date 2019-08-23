@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "39",
+                        "endColumns": "44",
+                        "endOffsets": "79"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "95",
+                        "endColumns": "44",
+                        "endOffsets": "135"
+                    }
+                },
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-land\\booleans.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "39",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "39",
+                        "endColumns": "44",
+                        "endOffsets": "79"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "95",
+                        "endColumns": "44",
+                        "endOffsets": "135"
+                    }
+                },
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-land\\booleans.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "39",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                }
+            ]
+        }
+    ]
+}

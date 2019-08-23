@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\res\\merged\\debug\\values-es-rMX\\values-es-rMX.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-es-rMX\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "168,104,229,291",
+                        "endColumns": "59,62,60,59",
+                        "endOffsets": "223,162,285,346"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,115,178,239",
+                        "endColumns": "59,62,60,59",
+                        "endOffsets": "110,173,234,294"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rMX\\values-es-rMX.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-es-rMX\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "168,104,229,291",
+                        "endColumns": "59,62,60,59",
+                        "endOffsets": "223,162,285,346"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,115,178,239",
+                        "endColumns": "59,62,60,59",
+                        "endOffsets": "110,173,234,294"
+                    }
+                }
+            ]
+        }
+    ]
+}

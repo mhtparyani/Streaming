@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\res\\merged\\debug\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-fr\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "164,104,221,278",
+                        "endColumns": "55,58,55,59",
+                        "endOffsets": "215,158,272,333"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "156,212,271,327",
+                        "endColumns": "55,58,55,59",
+                        "endOffsets": "207,266,322,382"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\MP\\Streaming\\medialibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\Streaming\\medialibrary\\res\\values-fr\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "164,104,221,278",
+                        "endColumns": "55,58,55,59",
+                        "endOffsets": "215,158,272,333"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "156,212,271,327",
+                        "endColumns": "55,58,55,59",
+                        "endOffsets": "207,266,322,382"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

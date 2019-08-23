@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_video.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_video.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\shortcuts.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_perf.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_perf.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\previewinputservice.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\previewinputservice.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\automotive_app_desc.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\automotive_app_desc.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\backup_rules.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_adv.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_adv.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_subtitles.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_subtitles.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_casting.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_casting.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\widget_provider_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\widget_provider_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_dev.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_dev.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\widget_provider_b.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\widget_provider_b.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_ui.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_ui.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_extensions.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_extensions.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_extension_page.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_extension_page.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_audio.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\xml\\preferences_audio.xml"
+    }
+]

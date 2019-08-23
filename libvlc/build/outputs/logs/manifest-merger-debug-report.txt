@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\MP\Streaming\libvlc\AndroidManifest.xml:2:1-4:12
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml:2:1-4:12
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml:2:1-4:12
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml:2:1-4:12
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml:2:1-4:12
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml:2:1-4:12
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from C:\MP\Streaming\libvlc\AndroidManifest.xml:3:7-29
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\MP\Streaming\libvlc\AndroidManifest.xml:3:54-81
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\MP\Streaming\libvlc\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\MP\Streaming\libvlc\AndroidManifest.xml:3:30-53
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+uses-sdk
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+		ADDED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+		ADDED from C:\MP\Streaming\libvlc\AndroidManifest.xml
+		INJECTED from C:\MP\Streaming\libvlc\AndroidManifest.xml

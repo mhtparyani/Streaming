@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout-v21\\mrl_panel.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout-v21\\mrl_panel.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout-v21\\leanback_settings_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout-v21\\leanback_settings_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout-v21\\leanback_preference_category.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout-v21\\leanback_preference_category.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-v21\\mrl_panel.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout-v21\\mrl_panel.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

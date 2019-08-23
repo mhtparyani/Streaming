@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_onboarding_logo_exit.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator-v21\\lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_onboarding_title_enter.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator-v21\\lb_onboarding_title_enter.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_description_fade_out.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator-v21\\lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_onboarding_logo_enter.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator-v21\\lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_onboarding_page_indicator_enter.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator-v21\\lb_onboarding_page_indicator_enter.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_onboarding_description_enter.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator-v21\\lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_in.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_out.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator-v21\\lb_playback_bg_fade_out.xml"
+    }
+]

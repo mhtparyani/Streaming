@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_title_in.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_title_in.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_return_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_return_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_details_enter_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_enter_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_details_return_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_details_return_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_title_out.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_title_out.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_guidedstep_activity_enter.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_guidedstep_activity_enter.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_vertical_grid_return_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_vertical_grid_return_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_vertical_grid_entrance_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_vertical_grid_entrance_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_vertical_grid_enter_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_vertical_grid_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_guidedstep_activity_enter_bottom.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_guidedstep_activity_enter_bottom.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_entrance_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_browse_entrance_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_shared_element_return_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_shared_element_return_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_shared_element_enter_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_shared_element_enter_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_headers_in.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_browse_headers_in.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_return_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_browse_return_transition.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_headers_out.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\transition-v21\\lb_browse_enter_transition.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\transition-v21\\lb_browse_enter_transition.xml"
+    }
+]

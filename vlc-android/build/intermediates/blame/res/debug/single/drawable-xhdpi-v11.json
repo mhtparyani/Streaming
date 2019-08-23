@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11\\ic_notif_scan.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-xhdpi-v11\\ic_notif_scan.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11\\ic_notif_video.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-xhdpi-v11\\ic_notif_video.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11\\ic_stat_vlc.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-xhdpi-v11\\ic_stat_vlc.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v11\\ic_notif_audio.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-xhdpi-v11\\ic_notif_audio.png"
+    }
+]

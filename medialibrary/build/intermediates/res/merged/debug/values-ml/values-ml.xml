@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="unknown_album">അജ്ഞാത ആല്‍ബം</string>
+    <string name="unknown_artist">അജ്ഞാത കലാകാരന്‍</string>
+    <string name="unknown_genre">അജ്ഞാത വിഭാഗം</string>
+</resources>

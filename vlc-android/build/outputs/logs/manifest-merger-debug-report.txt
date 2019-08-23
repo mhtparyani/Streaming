@@ -1,0 +1,693 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:1-691:12
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:1-691:12
+	package
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:4:11-37
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:1-691:12
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:1-691:12
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:6:5-86
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:6:5-86
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:6:5-86
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:6:5-86
+INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:6:5-86
+	tools:overrideLibrary
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:6:15-84
+	android:targetSdkVersion
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:6:5-86
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:6:5-86
+		INJECTED from C:\MP\internexttv\vlc-android\AndroidManifest.xml
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:8:5-10:41
+	android:maxSdkVersion
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:10:13-39
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:9:13-56
+uses-permission#android.permission.VIBRATE
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:13:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:18:22-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:23:22-75
+uses-permission#org.videolan.vlc.permission.READ_EXTENSION_DATA
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:24:5-86
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:24:22-84
+uses-permission#com.android.providers.tv.permission.READ_EPG_DATA
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:25:5-88
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:25:22-86
+uses-permission#com.android.providers.tv.permission.WRITE_EPG_DATA
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:26:5-89
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:26:22-87
+uses-feature#android.software.leanback
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:28:5-30:39
+	android:required
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:29:13-53
+uses-feature#android.hardware.touchscreen
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:31:5-33:39
+	android:required
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:32:13-56
+uses-feature#android.hardware.microphone
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:34:5-36:39
+	android:required
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:35:13-55
+uses-feature#android.hardware.bluetooth
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:37:5-39:39
+	android:required
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:38:13-54
+application
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:41:5-689:19
+	android:appCategory
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:44:9-36
+	android:roundIcon
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:52:9-48
+	android:largeHeap
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:50:9-33
+	android:icon
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:48:9-43
+	android:banner
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:45:9-42
+	android:supportsRtl
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:53:9-35
+	android:label
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:49:9-41
+	android:hardwareAccelerated
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:47:9-43
+	android:fullBackupContent
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:46:9-54
+	tools:targetApi
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:56:9-28
+	android:allowBackup
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:43:9-35
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:54:9-53
+	android:logo
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:51:9-38
+	android:usesCleartextTraffic
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:55:9-44
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:42:9-39
+meta-data#com.samsung.android.sdk.multiwindow.enable
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:59:9-61:39
+	android:value
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:61:17-37
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:60:17-74
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:62:9-64:39
+	android:value
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:64:17-37
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:63:17-60
+meta-data#com.google.android.gms.car.application
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:65:9-67:62
+	android:resource
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:67:17-60
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:66:17-70
+meta-data#com.google.android.gms.car.notification.SmallIcon
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:68:9-70:52
+	android:resource
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:70:17-50
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:69:17-81
+meta-data#android.max_aspect
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:71:9-73:36
+	android:value
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:73:17-34
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:72:17-50
+activity#org.videolan.vlc.StartActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:75:9-454:20
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:77:17-66
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:76:17-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:78:13-83:29
+action#android.intent.action.MAIN
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:79:17-68
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:79:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:81:17-76
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:81:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:82:17-85
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:82:27-83
+meta-data#android.app.shortcuts
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:85:13-87:56
+	android:resource
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:87:21-54
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:86:21-57
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:${applicationId}+data:scheme:vlclauncher
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:89:13-98:29
+action#android.intent.action.VIEW
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:90:17-68
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:90:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:92:17-77
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:92:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:93:17-75
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:93:27-73
+data
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:95:17-97:55
+	android:host
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:96:25-56
+	android:scheme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:97:25-53
+	android:pathPattern
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:197:23-53
+	android:mimeType
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:126:23-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:httplive+data:scheme:icyx+data:scheme:mms+data:scheme:mmsh+data:scheme:rtmp+data:scheme:rtmpe+data:scheme:rtmps+data:scheme:rtp+data:scheme:rtsp+data:scheme:udp+data:scheme:vlc
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:101:13-118:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*+data:mimeType:video/*+data:scheme:httplive+data:scheme:icyx+data:scheme:mms+data:scheme:mmsh+data:scheme:rtmp+data:scheme:rtmpe+data:scheme:rtmps+data:scheme:rtp+data:scheme:rtsp+data:scheme:udp+data:scheme:vlc
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:120:13-139:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/avi+data:mimeType:*/mkv+data:mimeType:*/rmvb+data:mimeType:application/3gpp*+data:mimeType:application/mp4+data:mimeType:application/mpeg*+data:mimeType:application/ogg+data:mimeType:application/sdp+data:mimeType:application/vnd.3gp*+data:mimeType:application/vnd.apple.mpegurl+data:mimeType:application/vnd.dolby*+data:mimeType:application/vnd.dvd*+data:mimeType:application/vnd.rn-realmedia*+data:mimeType:application/x-extension-mp4+data:mimeType:application/x-flac+data:mimeType:application/x-iso9660-image+data:mimeType:application/x-matroska+data:mimeType:application/x-mpegURL+data:mimeType:application/x-ogg+data:mimeType:application/x-quicktimeplayer+data:mimeType:application/x-shockwave-flash+data:mimeType:application/xspf+xml+data:mimeType:audio/*+data:mimeType:misc/ultravox+data:mimeType:video/*+data:scheme:+data:scheme:content+data:scheme:file+data:scheme:ftp+data:scheme:ftps+data:scheme:http+data:scheme:https+data:scheme:sftp+data:scheme:smb
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:140:13-180:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:pathPattern:.*\\.3G2+data:pathPattern:.*\\.3GA+data:pathPattern:.*\\.3GP+data:pathPattern:.*\\.3GP2+data:pathPattern:.*\\.3GPP+data:pathPattern:.*\\.3g2+data:pathPattern:.*\\.3ga+data:pathPattern:.*\\.3gp+data:pathPattern:.*\\.3gp2+data:pathPattern:.*\\.3gpp+data:pathPattern:.*\\.A52+data:pathPattern:.*\\.AAC+data:pathPattern:.*\\.AC3+data:pathPattern:.*\\.ADT+data:pathPattern:.*\\.ADTS+data:pathPattern:.*\\.AIF+data:pathPattern:.*\\.AIFC+data:pathPattern:.*\\.AIFF+data:pathPattern:.*\\.AMR+data:pathPattern:.*\\.AMV+data:pathPattern:.*\\.AOB+data:pathPattern:.*\\.APE+data:pathPattern:.*\\.ASF+data:pathPattern:.*\\.ASX+data:pathPattern:.*\\.AVI+data:pathPattern:.*\\.AWB+data:pathPattern:.*\\.CAF+data:pathPattern:.*\\.DIVX+data:pathPattern:.*\\.DRC+data:pathPattern:.*\\.DTS+data:pathPattern:.*\\.DV+data:pathPattern:.*\\.F4V+data:pathPattern:.*\\.FLAC+data:pathPattern:.*\\.FLV+data:pathPattern:.*\\.GVI+data:pathPattern:.*\\.GXF+data:pathPattern:.*\\.ISMV+data:pathPattern:.*\\.ISO+data:pathPattern:.*\\.IT+data:pathPattern:.*\\.M1V+data:pathPattern:.*\\.M2T+data:pathPattern:.*\\.M2TS+data:pathPattern:.*\\.M2V+data:pathPattern:.*\\.M3U+data:pathPattern:.*\\.M3U8+data:pathPattern:.*\\.M4A+data:pathPattern:.*\\.M4B+data:pathPattern:.*\\.M4P+data:pathPattern:.*\\.M4V+data:pathPattern:.*\\.MID+data:pathPattern:.*\\.MKA+data:pathPattern:.*\\.MKV+data:pathPattern:.*\\.MLP+data:pathPattern:.*\\.MOD+data:pathPattern:.*\\.MOV+data:pathPattern:.*\\.MP1+data:pathPattern:.*\\.MP2+data:pathPattern:.*\\.MP2+data:pathPattern:.*\\.MP2V+data:pathPattern:.*\\.MP3+data:pathPattern:.*\\.MP4+data:pathPattern:.*\\.MP4V+data:pathPattern:.*\\.MPA+data:pathPattern:.*\\.MPC+data:pathPattern:.*\\.MPE+data:pathPattern:.*\\.MPEG+data:pathPattern:.*\\.MPEG1+data:pathPattern:.*\\.MPEG2+data:pathPattern:.*\\.MPEG4+data:pathPattern:.*\\.MPG+data:pathPattern:.*\\.MPGA+data:pathPattern:.*\\.MPV2+data:pathPattern:.*\\.MTS+data:pathPattern:.*\\.MTV+data:pathPattern:.*\\.MXF+data:pathPattern:.*\\.MXG+data:pathPattern:.*\\.NSV+data:pathPattern:.*\\.NUT+data:pathPattern:.*\\.NUV+data:pathPattern:.*\\.OGA+data:pathPattern:.*\\.OGG+data:pathPattern:.*\\.OGM+data:pathPattern:.*\\.OGV+data:pathPattern:.*\\.OGX+data:pathPattern:.*\\.OMA+data:pathPattern:.*\\.OPUS+data:pathPattern:.*\\.PLS+data:pathPattern:.*\\.PS+data:pathPattern:.*\\.RA+data:pathPattern:.*\\.RAM+data:pathPattern:.*\\.REC+data:pathPattern:.*\\.RM+data:pathPattern:.*\\.RMI+data:pathPattern:.*\\.RMVB+data:pathPattern:.*\\.S3M+data:pathPattern:.*\\.SPX+data:pathPattern:.*\\.TOD+data:pathPattern:.*\\.TRP+data:pathPattern:.*\\.TS+data:pathPattern:.*\\.TTA+data:pathPattern:.*\\.TTS+data:pathPattern:.*\\.VOB+data:pathPattern:.*\\.VOC+data:pathPattern:.*\\.VQF+data:pathPattern:.*\\.VRO+data:pathPattern:.*\\.W64+data:pathPattern:.*\\.WAV+data:pathPattern:.*\\.WEBM+data:pathPattern:.*\\.WM+data:pathPattern:.*\\.WMA+data:pathPattern:.*\\.WMV+data:pathPattern:.*\\.WTV+data:pathPattern:.*\\.WV+data:pathPattern:.*\\.XA+data:pathPattern:.*\\.XESC+data:pathPattern:.*\\.XM+data:pathPattern:.*\\.XSPF+data:pathPattern:.*\\.a52+data:pathPattern:.*\\.aac+data:pathPattern:.*\\.ac3+data:pathPattern:.*\\.adt+data:pathPattern:.*\\.adts+data:pathPattern:.*\\.aif+data:pathPattern:.*\\.aifc+data:pathPattern:.*\\.aiff+data:pathPattern:.*\\.amr+data:pathPattern:.*\\.amv+data:pathPattern:.*\\.aob+data:pathPattern:.*\\.ape+data:pathPattern:.*\\.asf+data:pathPattern:.*\\.asx+data:pathPattern:.*\\.avi+data:pathPattern:.*\\.awb+data:pathPattern:.*\\.caf+data:pathPattern:.*\\.divx+data:pathPattern:.*\\.drc+data:pathPattern:.*\\.dts+data:pathPattern:.*\\.dv+data:pathPattern:.*\\.f4v+data:pathPattern:.*\\.flac+data:pathPattern:.*\\.flv+data:pathPattern:.*\\.gvi+data:pathPattern:.*\\.gxf+data:pathPattern:.*\\.ismv+data:pathPattern:.*\\.iso+data:pathPattern:.*\\.it+data:pathPattern:.*\\.m1v+data:pathPattern:.*\\.m2t+data:pathPattern:.*\\.m2ts+data:pathPattern:.*\\.m2v+data:pathPattern:.*\\.m3u+data:pathPattern:.*\\.m3u8+data:pathPattern:.*\\.m4a+data:pathPattern:.*\\.m4b+data:pathPattern:.*\\.m4p+data:pathPattern:.*\\.m4v+data:pathPattern:.*\\.mid+data:pathPattern:.*\\.mka+data:pathPattern:.*\\.mkv+data:pathPattern:.*\\.mlp+data:pathPattern:.*\\.mod+data:pathPattern:.*\\.mov+data:pathPattern:.*\\.mp1+data:pathPattern:.*\\.mp2+data:pathPattern:.*\\.mp2+data:pathPattern:.*\\.mp2v+data:pathPattern:.*\\.mp3+data:pathPattern:.*\\.mp4+data:pathPattern:.*\\.mp4v+data:pathPattern:.*\\.mpa+data:pathPattern:.*\\.mpc+data:pathPattern:.*\\.mpe+data:pathPattern:.*\\.mpeg+data:pathPattern:.*\\.mpeg1+data:pathPattern:.*\\.mpeg2+data:pathPattern:.*\\.mpeg4+data:pathPattern:.*\\.mpg+data:pathPattern:.*\\.mpga+data:pathPattern:.*\\.mpv2+data:pathPattern:.*\\.mts+data:pathPattern:.*\\.mtv+data:pathPattern:.*\\.mxf+data:pathPattern:.*\\.mxg+data:pathPattern:.*\\.nsv+data:pathPattern:.*\\.nut+data:pathPattern:.*\\.nuv+data:pathPattern:.*\\.oga+data:pathPattern:.*\\.ogg+data:pathPattern:.*\\.ogm+data:pathPattern:.*\\.ogv+data:pathPattern:.*\\.ogx+data:pathPattern:.*\\.oma+data:pathPattern:.*\\.opus+data:pathPattern:.*\\.pls+data:pathPattern:.*\\.ps+data:pathPattern:.*\\.ra+data:pathPattern:.*\\.ram+data:pathPattern:.*\\.rec+data:pathPattern:.*\\.rm+data:pathPattern:.*\\.rmi+data:pathPattern:.*\\.rmvb+data:pathPattern:.*\\.s3m+data:pathPattern:.*\\.spx+data:pathPattern:.*\\.tod+data:pathPattern:.*\\.trp+data:pathPattern:.*\\.ts+data:pathPattern:.*\\.tta+data:pathPattern:.*\\.tts+data:pathPattern:.*\\.vob+data:pathPattern:.*\\.voc+data:pathPattern:.*\\.vqf+data:pathPattern:.*\\.vro+data:pathPattern:.*\\.w64+data:pathPattern:.*\\.wav+data:pathPattern:.*\\.webm+data:pathPattern:.*\\.wm+data:pathPattern:.*\\.wma+data:pathPattern:.*\\.wmv+data:pathPattern:.*\\.wtv+data:pathPattern:.*\\.wv+data:pathPattern:.*\\.xa+data:pathPattern:.*\\.xesc+data:pathPattern:.*\\.xm+data:pathPattern:.*\\.xspf+data:scheme:+data:scheme:content+data:scheme:file+data:scheme:ftp+data:scheme:http+data:scheme:https
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:181:13-427:29
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:428:13-434:29
+	android:label
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:428:28-57
+action#android.intent.action.SEND
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:429:17-68
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:429:25-66
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:436:13-438:29
+action#android.intent.action.SEARCH
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:437:17-70
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:437:25-68
+intent-filter#action:name:com.google.android.gms.actions.SEARCH_ACTION+category:name:android.intent.category.DEFAULT
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:439:13-443:29
+action#com.google.android.gms.actions.SEARCH_ACTION
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:440:17-86
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:440:25-84
+meta-data#android.app.searchable
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:445:13-447:57
+	android:resource
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:447:21-55
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:446:21-58
+intent-filter#action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:449:13-453:29
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:450:17-85
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:450:25-83
+activity#org.videolan.vlc.gui.MainActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:455:9-465:20
+	android:label
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:458:17-49
+	android:launchMode
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:459:17-48
+	android:windowSoftInputMode
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:461:17-56
+	android:icon
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:457:17-46
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:460:17-49
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:456:17-49
+activity#org.videolan.vlc.gui.onboarding.OnboardingActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:466:9-468:62
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:468:17-60
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:467:17-66
+activity#org.videolan.vlc.gui.SecondaryActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:469:9-472:58
+	android:windowSoftInputMode
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:472:17-56
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:471:17-49
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:470:17-54
+activity#org.videolan.vlc.gui.PlaylistActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:473:9-475:51
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:475:17-49
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:474:17-53
+activity#org.videolan.vlc.gui.InfoActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:476:9-478:56
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:478:17-54
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:477:17-49
+activity#org.videolan.vlc.gui.SearchActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:479:9-481:51
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:481:17-49
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:480:17-51
+activity#org.videolan.vlc.gui.SendCrashActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:482:9-494:20
+	android:label
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:484:17-53
+	android:excludeFromRecents
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:488:17-50
+	android:launchMode
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:487:17-48
+	android:icon
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:486:17-60
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:485:17-65
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:483:17-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:489:13-493:29
+activity#org.videolan.vlc.gui.BetaWelcomeActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:495:9-497:67
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:497:17-65
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:496:17-56
+activity#org.videolan.vlc.gui.browser.FilePickerActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:498:9-500:64
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:500:17-62
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:499:17-63
+activity#org.videolan.vlc.gui.CompatErrorActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:501:9-60
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:501:19-58
+activity#org.videolan.vlc.gui.preferences.PreferencesActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:502:9-504:51
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:504:17-49
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:503:17-68
+activity#org.videolan.vlc.gui.video.VideoPlayerActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:505:9-513:58
+	android:launchMode
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:510:17-48
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:508:17-40
+	android:supportsPictureInPicture
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:512:17-56
+	android:resizeableActivity
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:511:17-50
+	android:configChanges
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:507:17-137
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:513:17-56
+	android:finishOnTaskLaunch
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:509:17-50
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:506:17-62
+activity#org.videolan.vlc.gui.DialogActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:514:9-517:61
+	android:configChanges
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:516:17-63
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:517:17-59
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:515:17-51
+activity#org.videolan.vlc.gui.wizard.MLWizardActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:518:9-522:79
+	android:label
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:521:17-56
+	android:configChanges
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:520:17-63
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:522:17-77
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:519:17-60
+service#org.videolan.vlc.extensions.ExtensionManagerService
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:524:9-70
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:524:18-68
+service#org.videolan.vlc.PlaybackService
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:525:9-529:19
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:525:18-49
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:526:13-528:29
+action#android.media.browse.MediaBrowserService
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:527:17-82
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:527:25-80
+service#org.videolan.vlc.MediaParsingService
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:530:9-55
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:530:18-53
+receiver#org.videolan.vlc.widget.VLCAppWidgetProviderWhite
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:532:9-547:20
+	android:label
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:535:17-54
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:534:17-41
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:533:17-65
+intent-filter#action:name:${applicationId}.widget.INIT+action:name:${applicationId}.widget.UPDATE+action:name:${applicationId}.widget.UPDATE_COVER+action:name:${applicationId}.widget.UPDATE_POSITION+action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:536:13-542:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:537:17-83
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:537:25-81
+action#${applicationId}.widget.INIT
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:538:17-70
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:538:25-68
+action#${applicationId}.widget.UPDATE
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:539:17-72
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:539:25-70
+action#${applicationId}.widget.UPDATE_COVER
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:540:17-78
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:540:25-76
+action#${applicationId}.widget.UPDATE_POSITION
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:541:17-81
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:541:25-79
+meta-data#android.appwidget.provider
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:544:13-546:64
+	android:resource
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:546:21-62
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:545:21-62
+receiver#org.videolan.vlc.widget.VLCAppWidgetProviderBlack
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:548:9-563:20
+	android:label
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:551:17-54
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:550:17-41
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:549:17-65
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:564:9-568:20
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:564:19-76
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:565:13-567:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:566:17-76
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:566:25-74
+activity#org.videolan.vlc.gui.video.benchmark.BenchActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:570:9-576:58
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:575:17-54
+	android:launchMode
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:574:17-52
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:573:17-40
+	android:configChanges
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:572:17-95
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:576:17-56
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:571:17-66
+activity#org.videolan.vlc.gui.tv.MainTvActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:577:9-582:54
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:581:17-54
+	android:label
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:579:17-49
+	android:launchMode
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:580:17-52
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:582:17-52
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:578:17-54
+activity#org.videolan.vlc.gui.tv.dialogs.ConfirmationTvActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:583:9-586:54
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:585:17-54
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:586:17-52
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:584:17-70
+activity#org.videolan.vlc.gui.tv.DetailsActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:587:9-591:64
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:590:17-54
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:589:17-40
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:591:17-62
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:588:17-55
+activity#org.videolan.vlc.gui.tv.browser.VerticalGridActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:592:9-596:54
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:595:17-54
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:594:17-40
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:596:17-52
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:593:17-68
+activity#org.videolan.vlc.gui.tv.details.MediaListActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:597:9-601:54
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:600:17-54
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:599:17-40
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:601:17-52
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:598:17-65
+activity#org.videolan.vlc.gui.tv.browser.TVActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:602:9-606:57
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:605:17-54
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:604:17-40
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:606:17-55
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:603:17-58
+activity#org.videolan.vlc.gui.tv.SearchActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:607:9-611:54
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:610:17-54
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:609:17-40
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:611:17-52
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:608:17-54
+activity#org.videolan.vlc.gui.tv.audioplayer.AudioPlayerActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:612:9-618:54
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:617:17-54
+	android:launchMode
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:616:17-48
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:615:17-40
+	android:allowTaskReparenting
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:614:17-52
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:618:17-52
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:613:17-71
+activity#org.videolan.vlc.gui.tv.preferences.PreferencesActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:619:9-622:72
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:621:17-54
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:622:17-70
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:620:17-71
+activity#org.videolan.vlc.gui.tv.AboutActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:623:9-626:54
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:625:17-54
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:626:17-52
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:624:17-53
+activity#org.videolan.vlc.gui.tv.LicenceActivity
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:627:9-630:54
+	android:screenOrientation
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:629:17-54
+	android:theme
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:630:17-52
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:628:17-55
+service#org.videolan.vlc.RecommendationsService
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:632:9-634:43
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:634:17-41
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:633:17-55
+receiver#org.videolan.vlc.TvReceiver
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:636:9-649:20
+	android:enabled
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:638:17-39
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:639:17-40
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:637:17-43
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.media.tv.ACTION_WATCH_NEXT_PROGRAM_BROWSABLE_DISABLED+action:name:android.media.tv.action.INITIALIZE_PROGRAMS+action:name:android.media.tv.action.PREVIEW_PROGRAM_ADDED_TO_WATCH_NEXT+action:name:android.media.tv.action.PREVIEW_PROGRAM_BROWSABLE_DISABLED+category:name:android.intent.category.DEFAULT
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:640:13-648:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:641:17-78
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:641:25-76
+action#android.media.tv.action.PREVIEW_PROGRAM_ADDED_TO_WATCH_NEXT
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:642:17-101
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:642:25-99
+action#android.media.tv.ACTION_WATCH_NEXT_PROGRAM_BROWSABLE_DISABLED
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:643:17-103
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:643:25-101
+action#android.media.tv.action.PREVIEW_PROGRAM_BROWSABLE_DISABLED
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:644:17-100
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:644:25-98
+action#android.media.tv.action.INITIALIZE_PROGRAMS
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:645:17-85
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:645:25-83
+receiver#org.videolan.vlc.StoragesMonitor
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:650:9-662:20
+	android:enabled
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:652:17-40
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:653:17-40
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:651:17-48
+intent-filter#action:name:android.intent.action.MEDIA_MOUNTED+action:name:android.intent.action.MEDIA_REMOVED+category:name:android.intent.category.DEFAULT+data:scheme:file
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:654:13-661:29
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:655:17-77
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:655:25-75
+action#android.intent.action.MEDIA_REMOVED
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:656:17-77
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:656:25-75
+provider#org.videolan.vlc.FileProvider
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:664:9-667:42
+	android:authorities
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:666:17-69
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:667:17-40
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:665:17-45
+provider#androidx.core.content.FileProvider
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:668:9-676:20
+	android:grantUriPermissions
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:672:17-51
+	android:authorities
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:670:17-64
+	android:exported
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:671:17-41
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:669:17-66
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:673:13-675:61
+	android:resource
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:675:21-59
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:674:21-71
+service#org.videolan.vlc.PreviewVideoInputService
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:678:9-688:19
+	android:permission
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:680:17-70
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:679:17-57
+intent-filter#action:name:android.media.tv.TvInputService
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:681:13-683:29
+action#android.media.tv.TvInputService
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:682:17-73
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:682:25-71
+meta-data#android.media.tv.input
+ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:685:13-687:66
+	android:resource
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:687:21-64
+	android:name
+		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:686:21-58

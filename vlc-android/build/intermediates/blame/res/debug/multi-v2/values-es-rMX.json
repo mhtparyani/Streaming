@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\values-es-rMX\\values-es-rMX.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\internexttv\\medialibrary\\build\\intermediates\\packaged_res\\debug\\values-es-rMX\\values-es-rMX.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,115,178,239",
+                        "endColumns": "59,62,60,59",
+                        "endOffsets": "110,173,234,294"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rMX\\values-es-rMX.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\internexttv\\medialibrary\\build\\intermediates\\packaged_res\\debug\\values-es-rMX\\values-es-rMX.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,115,178,239",
+                        "endColumns": "59,62,60,59",
+                        "endOffsets": "110,173,234,294"
+                    }
+                }
+            ]
+        }
+    ]
+}

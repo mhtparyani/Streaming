@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\history_view.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\history_view.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\activity_option.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\activity_option.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\audiosub_tracks.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\audiosub_tracks.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\action_mode_audio_browser.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\action_mode_audio_browser.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_option_history.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\fragment_option_history.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\directory_custom_dir.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\directory_custom_dir.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\sort_options.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\sort_options.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\video_group.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\video_group.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\action_mode_history.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\action_mode_history.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\extension_context_menu.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\extension_context_menu.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\action_mode_folder.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\action_mode_folder.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\audio_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\audio_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_option_network.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\fragment_option_network.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\action_mode_browser_file.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\action_mode_browser_file.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\menu\\action_mode_video.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\menu\\action_mode_video.xml"
+    }
+]

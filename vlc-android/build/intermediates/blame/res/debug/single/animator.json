@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_chip_state_list_anim.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_playback_rows_fade_out.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_playback_rows_fade_out.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_onboarding_start_button_fade_in.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_onboarding_start_button_fade_in.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_guidedstep_slide_down.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_guidedstep_slide_down.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_playback_controls_fade_in.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_playback_controls_fade_in.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_guidedactions_item_unpressed.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_guidedactions_item_unpressed.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_onboarding_page_indicator_fade_out.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_onboarding_page_indicator_fade_out.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_playback_description_fade_in.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_playback_description_fade_in.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_onboarding_start_button_fade_out.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_onboarding_start_button_fade_out.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\design_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\design_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator\\design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_playback_controls_fade_out.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_playback_controls_fade_out.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_onboarding_page_indicator_fade_in.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_onboarding_page_indicator_fade_in.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\tv_recyclerview_item_pop.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\animator\\tv_recyclerview_item_pop.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_guidedactions_item_pressed.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_guidedactions_item_pressed.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\mtrl_btn_state_list_anim.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_guidedstep_slide_up.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_guidedstep_slide_up.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\animator\\lb_playback_rows_fade_in.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\animator\\lb_playback_rows_fade_in.xml"
+    }
+]

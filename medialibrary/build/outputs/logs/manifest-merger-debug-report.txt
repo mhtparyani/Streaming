@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\MP\Streaming\medialibrary\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from C:\MP\Streaming\medialibrary\AndroidManifest.xml:3:5-40
+		INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+		INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\MP\Streaming\medialibrary\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\MP\Streaming\medialibrary\AndroidManifest.xml:5:5-19
+uses-sdk
+INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+		ADDED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+		INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+		ADDED from C:\MP\Streaming\medialibrary\AndroidManifest.xml
+		INJECTED from C:\MP\Streaming\medialibrary\AndroidManifest.xml

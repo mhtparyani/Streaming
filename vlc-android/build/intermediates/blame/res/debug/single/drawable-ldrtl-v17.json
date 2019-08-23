@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-v17\\ic_rewind_player_disabled.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldrtl\\ic_rewind_player_disabled.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-v17\\ic_next_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldrtl\\ic_next_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-v17\\ic_rewind_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldrtl\\ic_rewind_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-v17\\ic_forward_player_disabled.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldrtl\\ic_forward_player_disabled.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-v17\\ic_forward_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldrtl\\ic_forward_player.xml"
+    }
+]

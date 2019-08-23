@@ -1,0 +1,1258 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\leanback_preference_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout\\leanback_preference_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chapter_list_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\chapter_list_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_now_playing_bars.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_playback_now_playing_bars.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\tv_preferences_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_preferences_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_shadow.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_shadow.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\history_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\history_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_b.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\widget_b.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\equalizer.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\equalizer.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\tv_playlist_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_playlist_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_browser_card_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_browser_card_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\context_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\context_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\info_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\info_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_speech_orb.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\video_grid_card.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\video_grid_card.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_separator.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_picker_separator.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_transport_controls_row.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_playback_transport_controls_row.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\subtitle_downloader_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\subtitle_downloader_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_switch_compat.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_seekbar_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_widget_seekbar_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\folder_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\folder_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_information_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_information_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\browser_item_separator.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\browser_item_separator.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_details_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\video_grid.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\video_grid.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\player_hud_right.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_hud_right.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_category.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_category.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\song_header_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\song_header_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_renderer.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\item_renderer.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\vlc_question_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\vlc_question_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\scan_progress.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\scan_progress.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\history_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\history_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\custom_simple_spinner_dropdown_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\custom_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_time_picker.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_time_picker.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\folder_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\folder_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\audio_browser_card_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_browser_card_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_1_line.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_action_1_line.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\context_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\context_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_column.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_picker_column.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\native_crash.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\native_crash.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_media_item_action.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_row_media_item_action.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_onboarding_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\media_browser_tv_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\media_browser_tv_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\browser_item_separator.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\browser_item_separator.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_title.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\vlc_video_layout.xml",
+        "source": "C:\\MP\\internexttv\\libvlc\\build\\intermediates\\packaged_res\\debug\\layout\\vlc_video_layout.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_playlist_tips.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_playlist_tips.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\about_main.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\about_main.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\video_grid.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\video_grid.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_history_fragment.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\subtitle_history_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_media_list_header.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_media_list_header.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vlc_progress_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\vlc_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_rows_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_rows_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_media_item_number_view_flipper.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_media_item_number_view_flipper.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\571c69f955b8ec32174511ebed411fe5\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\leanback_list_preference_item_single.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout\\leanback_list_preference_item_single.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\file_picker_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\file_picker_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_datepicker_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preferences_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\preferences_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\song_header_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\song_header_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_dropdown.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_dropdown.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_ext_device.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_ext_device.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_remote.xml",
+        "source": "C:\\MP\\internexttv\\libvlc\\build\\intermediates\\packaged_res\\debug\\layout\\player_remote.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\equalizer.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\equalizer.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\ml_wizard_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\ml_wizard_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_media_switcher_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_media_switcher_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_overview.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_details_overview.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\browser_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\browser_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_vertical_grid.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\audio_browser_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_browser_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\ml_wizard_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\ml_wizard_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_container.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_row_container.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\info_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_orb.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_search_orb.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\extension_item_view.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\extension_item_view.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\player_hud.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_hud.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\onboarding_folders.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\onboarding_folders.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\item_renderer.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\item_renderer.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_list_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_list_row.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\leanback_preference.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout\\leanback_preference.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_playback_speed.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_playback_speed.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_section_header_tv.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\recycler_section_header_tv.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_bar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_control_bar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\send_crash_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\send_crash_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\media_browser_tv_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\media_browser_tv_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_list_tv.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\activity_media_list_tv.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_overlay_seek.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_overlay_seek.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audioplayer.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audioplayer.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_browser.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_browser.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_hud.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_hud.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_information.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_information.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\audio_player_header.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_player_header.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\vlc_login_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\vlc_login_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\directory_browser.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\directory_browser.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_category_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_category_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\debug_log.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\debug_log.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\search_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\search_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\571c69f955b8ec32174511ebed411fe5\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_options.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_options.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_player_tips.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_player_tips.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\playlists_fragment.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\playlists_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\subtitle_download_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\subtitle_download_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\onboarding_theme.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\onboarding_theme.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\browser_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\browser_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tv_audio_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_audio_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\about_licence.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\about_licence.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedbuttonactions.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\equalizer_bar.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\equalizer_bar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\view_mini_visualizer.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\view_mini_visualizer.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vlc_login_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\vlc_login_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_recyclerview.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_dropdown_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_dropdown_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_video_surface.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_video_surface.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_player_header.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_player_header.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\shadow_top.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\shadow_top.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_browser_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_browser_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\tv_time.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_time.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_error_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_error_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\mtrl_layout_snackbar_include.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\subtitle_history_fragment.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\subtitle_history_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_switch.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_widget_switch.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\debug_log_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\debug_log_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\secondary.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\secondary.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_right.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audioplayercontainer.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audioplayercontainer.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\571c69f955b8ec32174511ebed411fe5\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\playlists_fragment.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\playlists_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\audio_browser_separator.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_browser_separator.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\leanback_list_preference_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout\\leanback_list_preference_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\leanback_preference_information.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout\\leanback_preference_information.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_seekbar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\texture_view.xml",
+        "source": "C:\\MP\\internexttv\\libvlc\\build\\intermediates\\packaged_res\\debug\\layout\\texture_view.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_background_window.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_background_window.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_onboarding.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\send_crash_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\send_crash_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\leanback_preferences_list.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout\\leanback_preferences_list.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\playlist_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\playlist_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_hud_right.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_hud_right.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_albums_songs.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_albums_songs.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\shadow_bottom.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\shadow_bottom.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\playlist_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\playlist_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mrl_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\mrl_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\simple_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\simple_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_title.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_browse_title.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\571c69f955b8ec32174511ebed411fe5\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_beta_welcome.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\activity_beta_welcome.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\transparent.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\transparent.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_overlay_info.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_overlay_info.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\adv_option_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\adv_option_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_download_fragment.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\subtitle_download_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\tv_details.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_details.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\file_picker_fragment.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\file_picker_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\contextual_sheet.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\contextual_sheet.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\playlist_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\playlist_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\onboarding_welcome.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\onboarding_welcome.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\video_popup.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\video_popup.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_renderers.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_renderers.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_playback_controls.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_tooltip.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_headers_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_headers_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\audio_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls_row.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_picker_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_search_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_tips.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_tips.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_header.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_row_header.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\video_list_card.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\video_list_card.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_media_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_row_media_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_background.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\fastscroller.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\fastscroller.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_header.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_header.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\tv_search.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_search.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_playlist.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_playlist.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\song_browser.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\song_browser.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\surface_view.xml",
+        "source": "C:\\MP\\internexttv\\libvlc\\build\\intermediates\\packaged_res\\debug\\layout\\surface_view.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_browser_separator.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_browser_separator.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_primary.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_downloader_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\subtitle_downloader_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\widget_w.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\widget_w.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\571c69f955b8ec32174511ebed411fe5\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\video_list_card.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\video_list_card.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_left.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_divider.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_divider.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\search_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\search_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_description.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_details_description.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_guidedactions.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\directory_browser.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\directory_browser.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\simple_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\simple_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\571c69f955b8ec32174511ebed411fe5\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_section_header.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_section_header.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\image_frame.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\image_frame.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\not_compatible.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\not_compatible.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\history_list.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\history_list.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\571c69f955b8ec32174511ebed411fe5\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\button_search.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\button_search.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_download.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_download.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\audio_recyclerview.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\audio_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\571c69f955b8ec32174511ebed411fe5\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_media_list_tv_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\activity_media_list_tv_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\c12ecb30965bfcb763ca4af1bae17001\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\mrl_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\mrl_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\tv_vertical_grid.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_vertical_grid.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_media_list_tv.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\activity_media_list_tv.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\song_browser.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\song_browser.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\playlist_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\playlist_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\info_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\info_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sd_write.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_sd_write.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\leanback_preference_widget_seekbar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout\\leanback_preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\folders_fragment.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\folders_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\video_surface_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\video_surface_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\video_grid_card.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\video_grid_card.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_browse_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_title_view.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_title_view.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_picker.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidance.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_guidance.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_remote_control.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_remote_control.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\vlc_progress_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\vlc_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\571c69f955b8ec32174511ebed411fe5\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_ext_device.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_ext_device.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_checkbox.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_option_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_option_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_select_chapter.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_select_chapter.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\subtitle_download_fragment.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\subtitle_download_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\tv_main.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_main.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\onboarding_scanning.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\onboarding_scanning.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_media_list_tv_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\activity_media_list_tv_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_image_card_view.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_bar.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_search_bar.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\extension_item_view.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\extension_item_view.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\browser_path_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\browser_path_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_cascading_menu_item_layout.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\recycler_section_header.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\recycler_section_header.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview_logo.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\tv_audio_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_audio_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tv_playlist_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\tv_playlist_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\leanback_list_preference_item_multi.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\d04e46def10821814012631ec28f7cac\\res\\layout\\leanback_list_preference_item_multi.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\preference_dialog_edittext.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_2_lines.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_action_2_lines.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_beta_welcome.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\activity_beta_welcome.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\player_overlay_settings.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_overlay_settings.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_content.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\search_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\search_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\network_server_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\network_server_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vlc_question_dialog.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\vlc_question_dialog.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\player_option_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\player_option_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row_hovercard.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_renderers.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\dialog_renderers.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_fragment.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_playback_fragment.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7bed8a234946b528b49db99037259b8d\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\search_activity.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\search_activity.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle_download_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\subtitle_download_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_transport_controls.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_playback_transport_controls.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\chapter_list_item.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout\\chapter_list_item.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_secondary.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\b5e85bc175dc6c69d2a8a8b1d02a20d6\\res\\layout\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\expand_button.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\7739a60f72bdeba80b0d5089f9989c25\\res\\layout\\expand_button.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\cravx2\\.gradle\\caches\\transforms-2\\files-2.1\\276efb8fb3dbcabc1204a0ec9e831913\\res\\layout\\abc_expanded_menu_layout.xml"
+    }
+]

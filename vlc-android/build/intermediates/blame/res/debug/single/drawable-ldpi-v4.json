@@ -1,0 +1,994 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_previous_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_previous_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_popup_dim_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_popup_dim_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_addtoplaylist_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_addtoplaylist_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_move_media_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_move_media_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_play_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_sleep_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_sleep_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_audio.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_audio.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_audiosub_circle_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_audiosub_circle_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_fav_edit_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_fav_edit_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_popup_dim_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_popup_dim_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_repeat_one_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_repeat_one_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_reset_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_reset_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_close_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_close_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_speed_reset_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_speed_reset_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_seta_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_seta_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_history.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_history.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\banner.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\banner.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_preferences_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_preferences_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_speed_disable.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_speed_disable.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_next_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_next_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_popup_expand_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_popup_expand_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_subtitle_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_subtitle_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_seekbar_thumb_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_chapter_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_chapter_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_album_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_album_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_equalizer_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_equalizer_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_subtitle_open_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_subtitle_open_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_dial_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_dial_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_video_track_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_video_track_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_append_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_append_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_save_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_save_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_playlist_down_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_playlist_down_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_add_to_playlist_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_add_to_playlist_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_popup_pause.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_popup_pause.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_play_next_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_play_next_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_playasaudio_on_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_playasaudio_on_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_ringtone_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_ringtone_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_genre_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_genre_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_widget_close_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_widget_close_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_set_ringtone_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_set_ringtone_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_history_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_history_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_audio_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_audio_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_reset_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_reset_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_checkbox_false_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_checkbox_false_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_no_artwork_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_no_artwork_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_setb_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_setb_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_folder_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_folder_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_speed_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_speed_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_jumpto_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_jumpto_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_video_track_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_video_track_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gesture_finger_2.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_gesture_finger_2.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_sleep_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_sleep_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_play_as_audio_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_play_as_audio_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_passthrough_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_passthrough_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_append_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_append_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_shuffle_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_shuffle_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_equalizer_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_equalizer_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_audiotrack_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_audiotrack_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_reset_circle_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_reset_circle_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_play_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_dial_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_dial_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_reset_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_reset_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_mode_select_1610.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_action_mode_select_1610.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_playasaudio_off_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_playasaudio_off_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_trash_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_trash_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_network_add_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_network_add_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_filter.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_filter.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_passthrough_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_passthrough_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_reset_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_reset_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_subtitledelay_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_subtitledelay_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_done_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_done_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_checkbox_partialy_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_checkbox_partialy_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_next_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_next_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_sleep_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_sleep_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_download_subtitles_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_download_subtitles_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_remove_from_playlist_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_remove_from_playlist_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_jumpto_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_jumpto_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_fav_add_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_fav_add_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play_circle_card_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_play_circle_card_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_playasaudio_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_playasaudio_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_checkbox_true_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_checkbox_true_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_fav_remove_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_fav_remove_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_bookmark_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_bookmark_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_logo_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_logo_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_jumpto_disable.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_jumpto_disable.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_renderer_on_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_renderer_on_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_fab_add.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_fab_add.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_fab_shuffle.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_fab_shuffle.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_play_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_play_from_start_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_play_from_start_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_cone_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_cone_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_subtitle_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_subtitle_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_playasaudio_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_playasaudio_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_speed_reset_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_speed_reset_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_audiodelay_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_audiodelay_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_checkbox_true_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_checkbox_true_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_previous_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_previous_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_audiotrack_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_audiotrack_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_video_collection_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_video_collection_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_append_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_append_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_bookmark_outline_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_bookmark_outline_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_information_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_information_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_fab_play.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_fab_play.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_video.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_video.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_checkbox_partialy_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_checkbox_partialy_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_album_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_album_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_move_media_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_move_media_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_shuffle_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_shuffle_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_tips_sdcard.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\img_tips_sdcard.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_seen_tv_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_seen_tv_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_no_thumbnail_1610.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_no_thumbnail_1610.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_seekbar_thumb_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_home_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_home_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_reset_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_reset_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_playasaudio_off_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_playasaudio_off_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_passthrough_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_passthrough_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_default_cone.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_default_cone.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_subtitledelay_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_subtitledelay_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_subtitle_big_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_subtitle_big_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_music_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_music_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play_circle_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_play_circle_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_information_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_information_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_subtitledelay_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_subtitledelay_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_playlist_up_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_playlist_up_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_no_song.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_no_song.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_renderer_on_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_renderer_on_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_dial_circle_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_dial_circle_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_audiodelay_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_audiodelay_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_subtitle_open_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_subtitle_open_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_no_media.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_no_media.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_repeat_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_repeat_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_network.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_network.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gesture_finger_3.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_gesture_finger_3.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_renderer_circle_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_renderer_circle_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_repeat_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_repeat_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_tips_audioplayer.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\img_tips_audioplayer.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_audio_big_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_audio_big_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_playasaudio_off_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_playasaudio_off_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_playlist_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_playlist_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_seen_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_seen_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_download_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_download_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_cone.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_cone.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_renderer_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_renderer_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_renderer_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_renderer_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_setb_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_setb_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_seta_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_seta_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_ringtone_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_ringtone_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_dial_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_dial_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_reset_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_reset_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_archive_big_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_archive_big_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_stop_after_this.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_stop_after_this.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_previous_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_previous_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_checkbox_false_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_checkbox_false_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_passthrough_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_passthrough_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_play_all_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_play_all_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_reset_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_reset_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_video_big_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_video_big_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_setb_circle_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_setb_circle_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_playlist.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_playlist.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_video_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_video_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gesture_finger_1.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_gesture_finger_1.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_widget_close_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_widget_close_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_channel_icon.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_channel_icon.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_popup_expand_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_popup_expand_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_subtitledelay_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_subtitledelay_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_popup_play.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_popup_play.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_audio_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_audio_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_delete_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_delete_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_unknown_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_unknown_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_pause_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_pause_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_close_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_close_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_speed_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_speed_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_playlist_previous_circle_pressed_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_playlist_previous_circle_pressed_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_dial_circle_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_dial_circle_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_edit_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_edit_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_save_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_save_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_chapter_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_chapter_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_preferences.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_playlist_up_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_playlist_up_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_downsub_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_downsub_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_archive_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_archive_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_playasaudio_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_playasaudio_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_playlist_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_playlist_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_widget_close_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_widget_close_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_popup_expand_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_popup_expand_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_mode_select.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_action_mode_select.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_ctx_play_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_ctx_play_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_addtoplaylist_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_addtoplaylist_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_chapter_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_chapter_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_information_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_information_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_subtitle_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_subtitle_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_reset_circle_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_reset_circle_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_playlist_down_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_playlist_down_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_trash_small_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_trash_small_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play_circle_pressed_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_play_circle_pressed_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_audiodelay_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_audiodelay_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_sleep_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_sleep_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gesture_swipe_horizontally.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_gesture_swipe_horizontally.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_trash_small_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_trash_small_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_no_album.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_no_album.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_movies_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_movies_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_sort_circle_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_sort_circle_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_ringtone_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_ringtone_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_unknown_big_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_unknown_big_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_downsub_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_downsub_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_artist_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_artist_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_equalizer.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_equalizer.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_artist_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_artist_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_audiotrack_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_audiotrack_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_trash_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_trash_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_audiodelay_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_audiodelay_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_playasaudio_on_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_playasaudio_on_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_folder.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_folder.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_seta_circle_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_seta_circle_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_stream.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_stream.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_addtoplaylist_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_addtoplaylist_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_append_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_append_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_stream_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_stream_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_gesture_swipe_vertically.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_gesture_swipe_vertically.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\img_tips_playlist.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\img_tips_playlist.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_network_big.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_menu_network_big.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_seta_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_seta_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_close_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_close_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_jumpto_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_jumpto_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_play_circle_card_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_play_circle_card_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_trash_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_trash_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_playasaudio_on_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_playasaudio_on_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_equalizer_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_equalizer_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_no_artist.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_no_artist.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_speed_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_speed_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_pause_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_pause_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\renderer_background_cone.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\renderer_background_cone.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_setb_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_setb_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_next_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_next_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_sort_circle_pressed_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_sort_circle_pressed_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_save_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_save_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_downsub_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_downsub_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_speed_normal_o.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_speed_normal_o.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_browser_podcasts_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_browser_podcasts_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_auto_genre_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_auto_genre_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_seta_circle_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_seta_circle_normal.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_popup_dim_normal_w.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_popup_dim_normal_w.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_am_information_pressed.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_am_information_pressed.png"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_abrepeat_setb_circle_normal.png",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\drawable-ldpi\\ic_abrepeat_setb_circle_normal.png"
+    }
+]

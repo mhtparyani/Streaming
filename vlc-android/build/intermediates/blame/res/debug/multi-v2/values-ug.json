@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ug\\values-ug.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\internexttv\\medialibrary\\build\\intermediates\\packaged_res\\debug\\values-ug\\values-ug.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,110,169",
+                        "endColumns": "54,58,53",
+                        "endOffsets": "105,164,218"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\values-ug\\values-ug.xml",
+            "map": [
+                {
+                    "source": "C:\\MP\\internexttv\\medialibrary\\build\\intermediates\\packaged_res\\debug\\values-ug\\values-ug.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,110,169",
+                        "endColumns": "54,58,53",
+                        "endOffsets": "105,164,218"
+                    }
+                }
+            ]
+        }
+    ]
+}

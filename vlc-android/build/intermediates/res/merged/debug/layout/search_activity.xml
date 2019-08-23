@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                    
+    
+                                           
+                 
+                                  
+                                                                     
+                 
+                          
+                                                                      
+           
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" android:tag="layout/search_activity_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/background_default"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/ic_arrow_back"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="10dp"
+                android:scaleType="center"
+                android:tag="binding_1"              />
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/search_edit_layout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+                <EditText
+                    android:id="@+id/search_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:hint="@string/search_hint"
+                    android:imeOptions="actionSearch"
+                    android:inputType="textFilter"
+                    android:textColor="?attr/font_default"
+                    android:background="@android:color/transparent" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/ic_clear_orange"
+                android:layout_gravity="center_vertical"
+                android:scaleType="center"
+                android:tag="binding_2"               />
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/background_default_darker"
+            android:tag="binding_3"                                                   >
+            <LinearLayout
+                android:id="@+id/results_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/albums"
+                    android:textAppearance="@style/Result.Title"
+                    android:tag="binding_4"                                                              />
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/albums_results"
+                    style="@style/Result.List"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/background_default"
+                    android:tag="binding_5"                                                               />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="@style/Result.Title"
+                    android:text="@string/artists"
+                    android:tag="binding_6"                                                               />
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/artists_results"
+                    style="@style/Result.List"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/background_default"
+                    android:tag="binding_7"                                                               />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="@style/Result.Title"
+                    android:text="@string/genres"
+                    android:tag="binding_8"                                                              />
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/genres_results"
+                    style="@style/Result.List"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/background_default"
+                    android:tag="binding_9"                                                              />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="@style/Result.Title"
+                    android:text="@string/playlists"
+                    android:tag="binding_10"                                                                />
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/playlists_results"
+                    style="@style/Result.List"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/background_default"
+                    android:tag="binding_11"                                                                />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="@style/Result.Title"
+                    android:text="@string/episodes"
+                    android:tag="binding_12"         />
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/episodes_results"
+                    style="@style/Result.List"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/background_default"
+                    android:tag="binding_13"         />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="@style/Result.Title"
+                    android:text="@string/movies"
+                    android:tag="binding_14"         />
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/movies_results"
+                    style="@style/Result.List"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/background_default"
+                    android:tag="binding_15"         />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="@style/Result.Title"
+                    android:text="@string/videos"
+                    android:tag="binding_16"                                                             />
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/others_results"
+                    style="@style/Result.List"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/background_default"
+                    android:tag="binding_17"                                                             />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="@style/Result.Title"
+                    android:text="@string/songs"
+                    android:tag="binding_18"                                                             />
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/songs_results"
+                    style="@style/Result.List"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?attr/background_default"
+                    android:tag="binding_19"                                                             />
+            </LinearLayout>
+        </ScrollView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textAppearance="@style/Result.Title"
+            android:tag="binding_20"                                                  
+            android:text="@string/search_no_result"/>
+    </LinearLayout>
+         

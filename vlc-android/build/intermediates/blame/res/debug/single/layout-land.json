@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-land\\audio_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout-land\\audio_player.xml"
+    },
+    {
+        "merged": "C:\\MP\\internexttv\\vlc-android\\build\\intermediates\\res\\merged\\debug\\layout-land\\audio_player.xml",
+        "source": "C:\\MP\\internexttv\\vlc-android\\res\\layout-land\\audio_player.xml"
+    }
+]
