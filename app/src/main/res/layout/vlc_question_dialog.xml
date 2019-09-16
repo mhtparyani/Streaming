@@ -4,7 +4,7 @@
         <import type="android.text.TextUtils" />
         <import type="android.view.View" />
         <variable name="dialog" type="org.videolan.libvlc.Dialog.QuestionDialog"/>
-        <variable name="handler" type="org.videolan.vlc.gui.dialogs.VlcQuestionDialog"/>
+        <variable name="handler" type="com.shera.internexttv.gui.dialogs.VlcQuestionDialog"/>
     </data>
     <ScrollView
             android:layout_width="match_parent"

@@ -49,7 +49,7 @@ private const val MODE_TOTAL = 2 // Number of audio browser modes
 class AboutFragment : Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
-        return inflater.inflate(org.videolan.vlc.R.layout.about, container, false)
+        return inflater.inflate(com.shera.internexttv.R.layout.about, container, false)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -57,17 +57,17 @@ class AboutFragment : Fragment() {
 
         (activity as? AppCompatActivity)?.supportActionBar?.title = "VLC ${BuildConfig.VERSION_NAME}"
 
-        val aboutMain = view.findViewById<ScrollView>(org.videolan.vlc.R.id.about_main)
-        val webView = view.findViewById<WebView>(org.videolan.vlc.R.id.webview)
-        ///val revision = getString(org.videolan.vlc.R.string.build_revision)
+        val aboutMain = view.findViewById<ScrollView>(com.shera.internexttv.R.id.about_main)
+        val webView = view.findViewById<WebView>(com.shera.internexttv.R.id.webview)
+        ///val revision = getString(com.shera.internexttv.R.string.build_revision)
 
         val lists = arrayOf(aboutMain, webView)
-        val titles = arrayOf(getString(org.videolan.vlc.R.string.about), getString(org.videolan.vlc.R.string.licence))
-        val viewPager = view.findViewById<ViewPager>(org.videolan.vlc.R.id.pager).apply {
+        val titles = arrayOf(getString(com.shera.internexttv.R.string.about), getString(com.shera.internexttv.R.string.licence))
+        val viewPager = view.findViewById<ViewPager>(com.shera.internexttv.R.id.pager).apply {
             offscreenPageLimit = MODE_TOTAL - 1
             adapter = AudioPagerAdapter(lists as Array<View>, titles)
         }
-        requireActivity().findViewById<TabLayout>(org.videolan.vlc.R.id.sliding_tabs).apply {
+        requireActivity().findViewById<TabLayout>(com.shera.internexttv.R.id.sliding_tabs).apply {
             visibility = View.VISIBLE
             setupWithViewPager(viewPager)
         }

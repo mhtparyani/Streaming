@@ -113,7 +113,10 @@ class VLCApplication : MultiDexApplication() {
                 Dialog.setCallbacks(VLCInstance[instance], dialogCallbacks)
             })
             packageManager.setComponentEnabledSetting(ComponentName(this, SendCrashActivity::class.java),
-                    if (BuildConfig.BETA) PackageManager.COMPONENT_ENABLED_STATE_ENABLED else PackageManager.COMPONENT_ENABLED_STATE_DISABLED, PackageManager.DONT_KILL_APP)
+//                    if (BuildConfig.BETA)
+//                        PackageManager.COMPONENT_ENABLED_STATE_ENABLED
+//                    else
+            PackageManager.COMPONENT_ENABLED_STATE_DISABLED, PackageManager.DONT_KILL_APP)
         }).start()
     }
 

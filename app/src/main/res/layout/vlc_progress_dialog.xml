@@ -5,7 +5,7 @@
         <import type="android.text.TextUtils" />
         <import type="android.view.View" />
         <variable name="dialog" type="org.videolan.libvlc.Dialog.ProgressDialog"/>
-        <variable name="handler" type="org.videolan.vlc.gui.dialogs.VlcProgressDialog"/>
+        <variable name="handler" type="com.shera.internexttv.gui.dialogs.VlcProgressDialog"/>
     </data>
     <ScrollView
             android:layout_width="match_parent"
@@ -41,7 +41,7 @@
                     android:onClick="@{handler::onCancel}"
                     style="@style/Widget.MaterialComponents.Button.TextButton.Dialog"
                     android:visibility="@{TextUtils.isEmpty(dialog.cancelText) ? View.GONE : View.VISIBLE}"/>
-                tools:visibility="visible"/>
+<!--                tools:visibility="visible"/>-->
         </RelativeLayout>
     </ScrollView>
 </layout>

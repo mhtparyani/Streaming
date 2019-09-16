@@ -6,7 +6,7 @@
         <import type="android.view.View" />
         <variable
             name="fragment"
-            type="org.videolan.vlc.gui.audio.AudioPlayer" />
+            type="com.shera.internexttv.gui.audio.AudioPlayer" />
     </data>
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/header"
@@ -31,7 +31,7 @@
             android:contentDescription="@string/play_as_audio"
             android:src="?attr/ic_playasaudio_off" />
 
-        <org.videolan.vlc.gui.view.HeaderMediaSwitcher
+        <com.shera.internexttv.gui.view.HeaderMediaSwitcher
             android:id="@+id/audio_media_switcher"
             android:layout_width="0dp"
             android:layout_height="wrap_content"

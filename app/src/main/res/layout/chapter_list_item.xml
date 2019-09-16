@@ -10,11 +10,11 @@
 
         <variable
             name="chapter"
-            type="org.videolan.vlc.gui.dialogs.SelectChapterDialog.Chapter" />
+            type="com.shera.internexttv.gui.dialogs.SelectChapterDialog.Chapter" />
 
         <variable
             name="holder"
-            type="org.videolan.vlc.gui.dialogs.SelectChapterDialog.ChapterViewHolder" />
+            type="com.shera.internexttv.gui.dialogs.SelectChapterDialog.ChapterViewHolder" />
 
     </data>
 

@@ -4,7 +4,7 @@
     android:layout_height="match_parent">
     <fragment
         android:id="@+id/search_fragment"
-        android:name="org.videolan.vlc.gui.tv.SearchFragment"
+        android:name="com.shera.internexttv.gui.tv.SearchFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
     <TextView

@@ -9,11 +9,11 @@
 
         <import type="android.text.TextUtils"/>
 
-        <import type="org.videolan.vlc.util.Strings"/>
+        <import type="com.shera.internexttv.util.Strings"/>
 
         <variable
                 name="holder"
-                type="org.videolan.vlc.gui.audio.PlaylistAdapter.ViewHolder"/>
+                type="com.shera.internexttv.gui.audio.PlaylistAdapter.ViewHolder"/>
 
         <variable
                 name="cover"
@@ -72,7 +72,7 @@
                 android:layout_marginBottom="4dp"/>
 
 
-        <org.videolan.vlc.gui.view.MiniVisualizer
+        <com.shera.internexttv.gui.view.MiniVisualizer
                 android:layout_width="24dp"
                 android:layout_height="24dp"
                 android:id="@+id/playing"

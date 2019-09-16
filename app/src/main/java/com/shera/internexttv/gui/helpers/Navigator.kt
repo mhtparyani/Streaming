@@ -44,7 +44,7 @@ import com.shera.internexttv.BuildConfig
 import com.shera.internexttv.R
 import com.shera.internexttv.extensions.ExtensionManagerService
 import com.shera.internexttv.extensions.ExtensionsManager
-import com.shera.internexttv.extensions.api.VLCExtensionItem
+import org.videolan.vlc.extensions.api.VLCExtensionItem
 import com.shera.internexttv.gui.HistoryFragment
 import com.shera.internexttv.gui.MainActivity
 import com.shera.internexttv.gui.PlaylistFragment

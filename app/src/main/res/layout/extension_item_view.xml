@@ -7,7 +7,7 @@
         <import type="android.text.TextUtils"/>
         <variable
             name="holder"
-            type="org.videolan.vlc.gui.browser.ExtensionAdapter.ViewHolder"/>
+            type="com.shera.internexttv.gui.browser.ExtensionAdapter.ViewHolder"/>
         <variable
             name="item"
             type="org.videolan.vlc.extensions.api.VLCExtensionItem"/>

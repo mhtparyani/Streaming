@@ -37,14 +37,14 @@ import retrofit2.Response;
 public class ChannelListActivity extends AppCompatActivity {
 
     SharedPreferences sharedPreferences;
-    @BindView(R.id.recyclerview)
+    //@BindView(R.id.recyclerview)
     RecyclerView recyclerview;
 
     ChannelListAdapter channelListAdapter;
     ArrayList<LiveChannelDTO> categoryDTOS;
-    @BindView(R.id.progressBar)
+    //@BindView(R.id.progressBar)
     ProgressCircula progressBar;
-    @BindView(R.id.no_data_found)
+    //@BindView(R.id.no_data_found)
     TextView noDataFound;
     Controller controller;
     private String username,password;
@@ -52,7 +52,10 @@ public class ChannelListActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_channel_list);
-        ButterKnife.bind(this);
+//        ButterKnife.bind(this);
+        recyclerview=(RecyclerView) findViewById(R.id.recyclerview);
+        progressBar=(ProgressCircula) findViewById(R.id.progressBar);
+        noDataFound=(TextView) findViewById(R.id.no_data_found);
         recyclerview.setVisibility(View.GONE);
         progressBar.setVisibility(View.VISIBLE);
         sharedPreferences = getSharedPreferences(Constant.SHARED_PREF_NAME, Context.MODE_PRIVATE);

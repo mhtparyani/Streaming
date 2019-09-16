@@ -4,7 +4,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <data>
         <variable name="viewmodel"
-            type="org.videolan.vlc.viewmodels.StreamsModel"/>
+            type="com.shera.internexttv.viewmodels.StreamsModel"/>
     </data>
 
     <androidx.core.widget.NestedScrollView

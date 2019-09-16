@@ -526,7 +526,7 @@
             android:label="@string/ml_wizard_title"
             android:theme="@style/Theme.MaterialComponents.Light.Dialog" />
 
-        <service android:name="org.videolan.vlc.extensions.ExtensionManagerService" />
+        <service android:name="com.shera.internexttv.extensions.ExtensionManagerService" />
         <service android:name="org.videolan.vlc.PlaybackService" >
             <intent-filter>
                 <action android:name="android.media.browse.MediaBrowserService" />

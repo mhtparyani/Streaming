@@ -13,7 +13,7 @@
 
         <variable
                 name="holder"
-                type="org.videolan.vlc.gui.HistoryAdapter.ViewHolder"/>
+                type="com.shera.internexttv.gui.HistoryAdapter.ViewHolder"/>
 
         <variable
                 name="media"

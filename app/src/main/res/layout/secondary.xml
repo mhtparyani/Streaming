@@ -37,7 +37,7 @@
             android:tint="@color/grey50"
             vlc:layout_anchor="@+id/fragment_placeholder"
             vlc:layout_anchorGravity="bottom|end"
-            vlc:layout_behavior="org.videolan.vlc.gui.helpers.FloatingActionButtonBehavior"
+            vlc:layout_behavior="com.shera.internexttv.gui.helpers.FloatingActionButtonBehavior"
             android:visibility="invisible"
             android:layout_margin="16dp"/>
     </androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -6,7 +6,7 @@
             type="org.videolan.libvlc.RendererItem" />
         <variable
             name="clicHandler"
-            type="org.videolan.vlc.gui.dialogs.RenderersDialog.RendererClickhandler" />
+            type="com.shera.internexttv.gui.dialogs.RenderersDialog.RendererClickhandler" />
     </data>
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:orientation="vertical" android:layout_width="match_parent"

@@ -4,9 +4,9 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
     <data>
         <import type="android.view.View"/>
-        <import type="org.videolan.vlc.gui.dialogs.State"/>
+        <import type="com.shera.internexttv.gui.dialogs.State"/>
         <variable name="subtitleItem"
-            type="org.videolan.vlc.gui.dialogs.SubtitleItem"/>
+            type="com.shera.internexttv.gui.dialogs.SubtitleItem"/>
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

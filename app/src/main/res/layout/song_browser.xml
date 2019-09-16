@@ -81,7 +81,7 @@
             android:visibility="visible"
             app:constraint_referenced_ids="sortButton,title,headerButton" />
 
-        <org.videolan.vlc.gui.tv.FocusableRecyclerView
+        <com.shera.internexttv.gui.tv.FocusableRecyclerView
             android:id="@+id/list"
             android:layout_width="0dp"
             android:layout_height="0dp"
@@ -97,7 +97,7 @@
             app:layout_constraintTop_toTopOf="parent"
             tools:listitem="@layout/media_browser_tv_item">
 
-        </org.videolan.vlc.gui.tv.FocusableRecyclerView>
+        </com.shera.internexttv.gui.tv.FocusableRecyclerView>
 
         <ImageButton
             android:id="@+id/imageButtonSort"

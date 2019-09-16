@@ -13,7 +13,7 @@ import org.videolan.medialibrary.MLServiceLocator
 import org.videolan.medialibrary.interfaces.media.AbstractMediaWrapper
 import com.shera.internexttv.R
 import com.shera.internexttv.databinding.ExtensionItemViewBinding
-import com.shera.internexttv.extensions.api.VLCExtensionItem
+import org.videolan.vlc.extensions.api.VLCExtensionItem
 import com.shera.internexttv.media.MediaUtils
 import java.util.*
 

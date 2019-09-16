@@ -9,11 +9,11 @@
 
         <variable
                 name="progress"
-                type="androidx.lifecycle.LiveData&lt;org.videolan.vlc.media.Progress>"/>
+                type="androidx.lifecycle.LiveData&lt;com.shera.internexttv.media.Progress>"/>
 
         <variable
                 name="player"
-                type="org.videolan.vlc.gui.video.VideoPlayerActivity"/>
+                type="com.shera.internexttv.gui.video.VideoPlayerActivity"/>
     </data>
 
 

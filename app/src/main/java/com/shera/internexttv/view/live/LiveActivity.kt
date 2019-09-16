@@ -16,6 +16,8 @@ import com.shera.internexttv.R
 import org.videolan.medialibrary.MLServiceLocator
 import org.videolan.medialibrary.interfaces.media.AbstractMediaWrapper
 import com.shera.internexttv.media.MediaUtils
+import kotlinx.coroutines.ExperimentalCoroutinesApi
+import kotlinx.coroutines.ObsoleteCoroutinesApi
 //import com.shera.internexttv.media.MediaUtils;
 //import com.shera.internexttv.media.MediaUtilsKt;
 
@@ -30,15 +32,17 @@ class LiveActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_live)
-        val b = intent.extras
-        if (b != null) {
-            streamId = b.getString("id")
-        }
-        mFilePath = "http://server.internext.tv:8080/get.php?username=zeba&password=zeba@2019&type=m3u_plus&output=ts"
+//        val b = intent.extras
+//        if (b != null) {
+//            streamId = b.getString("id")
+//        }
+        mFilePath = "http://server.internext.tv:8080/wasim/GvxkEFmjv6/23192"
         val mw = MLServiceLocator.getAbstractMediaWrapper(Uri.parse(mFilePath))
         playMedia(mw)
     }
 
+    @ObsoleteCoroutinesApi
+    @ExperimentalCoroutinesApi
     private fun playMedia(mw: AbstractMediaWrapper) {
         mw.type = AbstractMediaWrapper.TYPE_STREAM
         MediaUtils.openMedia(this, mw)

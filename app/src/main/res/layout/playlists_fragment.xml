@@ -17,7 +17,7 @@
             android:layout_marginRight="@dimen/default_margin"
             android:layout_marginEnd="@dimen/default_margin" />
 
-        <org.videolan.vlc.gui.view.SwipeRefreshLayout
+        <com.shera.internexttv.gui.view.SwipeRefreshLayout
             android:id="@+id/swipeLayout"
             android:layout_width="@dimen/default_content_width"
             android:layout_height="0dp"
@@ -27,9 +27,9 @@
             app:layout_constraintBottom_toBottomOf="parent" >
             <include layout="@layout/audio_recyclerview"
                 android:id="@+id/playlist_list" />
-        </org.videolan.vlc.gui.view.SwipeRefreshLayout>
+        </com.shera.internexttv.gui.view.SwipeRefreshLayout>
 
-        <org.videolan.vlc.gui.view.FastScroller
+        <com.shera.internexttv.gui.view.FastScroller
             android:id="@+id/songs_fast_scroller"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"

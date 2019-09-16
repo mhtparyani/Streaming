@@ -246,13 +246,13 @@ class MainTvFragment : BrowseSupportFragment(), OnItemViewSelectedListener, OnIt
             }
             HEADER_MISC -> {
                 when ((item as GenericCardItem).id) {
-                    ID_SETTINGS -> activity.startActivityForResult(Intent(activity, org.videolan.vlc.gui.tv.preferences.PreferencesActivity::class.java), ACTIVITY_RESULT_PREFERENCES)
+                    ID_SETTINGS -> activity.startActivityForResult(Intent(activity, com.shera.internexttv.gui.tv.preferences.PreferencesActivity::class.java), ACTIVITY_RESULT_PREFERENCES)
                     ID_REFRESH -> {
                         if (!AbstractMedialibrary.getInstance().isWorking) {
                             requireActivity().reloadLibrary()
                         }
                     }
-                    ID_ABOUT_TV -> activity.startActivity(Intent(activity, org.videolan.vlc.gui.tv.AboutActivity::class.java))
+                    ID_ABOUT_TV -> activity.startActivity(Intent(activity, com.shera.internexttv.gui.tv.AboutActivity::class.java))
 //                    ID_LICENCE -> startActivity(Intent(activity, org.videolan.vlc.gui.tv.LicenceActivity::class.java))
                 }
             }

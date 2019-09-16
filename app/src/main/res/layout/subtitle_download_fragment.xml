@@ -6,7 +6,7 @@
         <import type="android.view.View"/>
         <import type="android.text.TextUtils"/>
         <variable name="viewmodel"
-            type="org.videolan.vlc.viewmodels.SubtitlesModel"/>
+            type="com.shera.internexttv.viewmodels.SubtitlesModel"/>
     </data>
     <androidx.core.widget.NestedScrollView
         android:id="@+id/scroll_view"
@@ -17,7 +17,7 @@
             android:id="@+id/constraintLayout"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
-            <org.videolan.vlc.gui.MultiSelectionSpinner
+            <com.shera.internexttv.gui.MultiSelectionSpinner
                 android:id="@+id/language_list_spinner"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"

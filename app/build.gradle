@@ -6,17 +6,23 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.shera.internexttv"
+        resValue "string", "build_time", buildTime()
+        resValue "string", "build_host", hostName()
         minSdkVersion 23
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
+        ndk {
+            abiFilters "armeabi-v7a", "x86", "armeabi", "mips"
+        }
     }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            buildConfigField "boolean", "BETA", isBeta()
         }
     }
 
@@ -29,7 +35,27 @@ android {
         enabled = true
     }
 }
+task buildTranslationArray {
+    doLast {
+        def foundLocales = new StringBuilder()
+        foundLocales.append("new String[]{")
 
+        fileTree("res").visit { FileVisitDetails details ->
+            println 'details: ' + details
+            if (details.file.path.endsWith("strings.xml")) {
+                def languageCode = details.file.parentFile.name.replaceAll('values-', '').replaceAll('-r', '-')
+                languageCode = (languageCode == "values") ? "en" : languageCode
+                foundLocales.append("\"").append(languageCode).append("\"").append(",")
+            }
+        }
+
+        foundLocales.append("}")
+        //Don't forget to remove the trailing comma
+        def foundLocalesString = foundLocales.toString().replaceAll(',}', '}')
+        android.defaultConfig.buildConfigField "String[]", "TRANSLATION_ARRAY", foundLocalesString
+    }
+}
+preBuild.dependsOn buildTranslationArray
 dependencies {
     def retrofit_version = "2.4.0"
     implementation fileTree(dir: 'libs', include: ['*.jar'])
@@ -105,4 +131,16 @@ kapt {
         // Default is 100.
         option("-Xmaxerrs", 500)
     }
+}
+
+static def buildTime() {
+    return new Date().format("yyyy-MM-dd", TimeZone.getTimeZone("UTC"))
+}
+
+static def hostName() {
+    return "${System.getProperty("user.name")}@${InetAddress.localHost.hostName}"
+}
+def isBeta() {
+    def versionNameLower = versionName.toLowerCase()
+    return (versionNameLower.contains("beta") || versionNameLower.contains("rc") || versionNameLower.contains("alpha") || versionNameLower.contains("dev")).toString()
 }

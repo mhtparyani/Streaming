@@ -18,7 +18,7 @@ import org.videolan.medialibrary.interfaces.media.AbstractMediaWrapper
 import com.shera.internexttv.R
 import com.shera.internexttv.extensions.ExtensionManagerService
 import com.shera.internexttv.extensions.Utils
-import com.shera.internexttv.extensions.api.VLCExtensionItem
+import org.videolan.vlc.extensions.api.VLCExtensionItem
 import com.shera.internexttv.gui.dialogs.CtxActionReceiver
 import com.shera.internexttv.gui.dialogs.showContext
 import com.shera.internexttv.gui.view.SwipeRefreshLayout

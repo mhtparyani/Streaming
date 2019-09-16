@@ -7,7 +7,7 @@
 
         <variable
                 name="progress"
-                type="androidx.lifecycle.LiveData&lt;org.videolan.vlc.viewmodels.PlaybackProgress>"/>
+                type="androidx.lifecycle.LiveData&lt;com.shera.internexttv.viewmodels.PlaybackProgress>"/>
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

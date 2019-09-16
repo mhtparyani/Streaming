@@ -333,7 +333,7 @@ class VideoTouchDelegate(private val player: VideoPlayerActivity,
                 Tools.millisToString(jump.toLong()),
                 Tools.millisToString(time + jump),
                 if (coef > 1) String.format(" x%.1g", 1.0 / coef) else ""), 50)
-        else player.showInfo(org.videolan.vlc.R.string.unseekable_stream, 1000)
+        else player.showInfo(com.shera.internexttv.R.string.unseekable_stream, 1000)
     }
 
     private fun doVolumeTouch(y_changed: Float) {

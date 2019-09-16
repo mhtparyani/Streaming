@@ -339,7 +339,7 @@
                 vlc:layout_anchorGravity="bottom|end"
                 android:layout_margin="16dp"
 
-                vlc:layout_behavior="org.videolan.vlc.gui.helpers.FloatingActionButtonBehavior"
+                vlc:layout_behavior="com.shera.internexttv.gui.helpers.FloatingActionButtonBehavior"
                 android:src="@drawable/ic_fab_play"
                 android:tint="@color/grey50"/>
 

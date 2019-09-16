@@ -10,8 +10,8 @@
         android:shortcutLongLabel="@string/last_playlist" >
         <intent
             android:action="vlc.shortcut.resume"
-            android:targetPackage="org.videolan.vlc"
-            android:targetClass="org.videolan.vlc.StartActivity" />
+            android:targetPackage="com.shera.internexttv"
+            android:targetClass="com.shera.internexttv.StartActivity" />
         <categories android:name="vlc.shortcut.category" />
     </shortcut>
     <shortcut
@@ -22,8 +22,8 @@
         android:shortcutLongLabel="@string/directories" >
         <intent
             android:action="vlc.shortcut.browser"
-            android:targetPackage="org.videolan.vlc"
-            android:targetClass="org.videolan.vlc.StartActivity" />
+            android:targetPackage="com.shera.internexttv"
+            android:targetClass="com.shera.internexttv.StartActivity" />
         <categories android:name="vlc.shortcut.category" />
     </shortcut>
     <shortcut
@@ -34,8 +34,8 @@
         android:shortcutLongLabel="@string/playlists" >
         <intent
             android:action="vlc.shortcut.playlists"
-            android:targetPackage="org.videolan.vlc"
-            android:targetClass="org.videolan.vlc.StartActivity" />
+            android:targetPackage="com.shera.internexttv"
+            android:targetClass="com.shera.internexttv.StartActivity" />
         <categories android:name="vlc.shortcut.category" />
     </shortcut>
     <shortcut
@@ -47,8 +47,8 @@
         tools:targetApi="n_mr1">
         <intent
             android:action="vlc.shortcut.video"
-            android:targetPackage="org.videolan.vlc"
-            android:targetClass="org.videolan.vlc.StartActivity" />
+            android:targetPackage="com.shera.internexttv"
+            android:targetClass="com.shera.internexttv.StartActivity" />
         <categories android:name="vlc.shortcut.category" />
     </shortcut>
     <shortcut
@@ -59,8 +59,8 @@
         android:shortcutLongLabel="@string/audio">
         <intent
             android:action="vlc.shortcut.audio"
-            android:targetPackage="org.videolan.vlc"
-            android:targetClass="org.videolan.vlc.StartActivity" />
+            android:targetPackage="com.shera.internexttv"
+            android:targetClass="com.shera.internexttv.StartActivity" />
         <categories android:name="vlc.shortcut.category" />
     </shortcut>
     <shortcut
@@ -71,8 +71,8 @@
         android:shortcutLongLabel="@string/network_browsing" >
         <intent
             android:action="vlc.shortcut.network"
-            android:targetPackage="org.videolan.vlc"
-            android:targetClass="org.videolan.vlc.StartActivity" />
+            android:targetPackage="com.shera.internexttv"
+            android:targetClass="com.shera.internexttv.StartActivity" />
         <categories android:name="vlc.shortcut.category" />
     </shortcut>
 </shortcuts>

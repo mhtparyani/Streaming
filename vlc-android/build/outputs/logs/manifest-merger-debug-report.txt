@@ -401,7 +401,7 @@ ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:518:9-522:79
 		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:522:17-77
 	android:name
 		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:519:17-60
-service#org.videolan.vlc.extensions.ExtensionManagerService
+service#com.shera.internexttv.extensions.ExtensionManagerService
 ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:524:9-70
 	android:name
 		ADDED from C:\MP\internexttv\vlc-android\AndroidManifest.xml:524:18-68

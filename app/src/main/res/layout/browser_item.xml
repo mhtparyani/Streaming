@@ -14,7 +14,7 @@
 
         <variable
             name="holder"
-            type="org.videolan.vlc.gui.browser.BaseBrowserAdapter.ViewHolder" />
+            type="com.shera.internexttv.gui.browser.BaseBrowserAdapter.ViewHolder" />
 
         <variable
             name="item"
@@ -57,7 +57,7 @@
         android:onLongClick="@{holder::onLongClick}"
         android:padding="2dp">
 
-        <org.videolan.vlc.gui.helpers.ThreeStatesCheckbox
+        <com.shera.internexttv.gui.helpers.ThreeStatesCheckbox
             android:id="@+id/browser_checkbox"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -69,7 +69,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-        <!-- Image downloading is handled by org.videolan.vlc.gui.helpers.ImageLoader.loadImage() -->
+        <!-- Image downloading is handled by com.shera.internexttv.gui.helpers.ImageLoader.loadImage() -->
         <ImageView
             android:id="@+id/item_icon"
             android:layout_width="48dp"

@@ -11,10 +11,10 @@
             type="org.videolan.medialibrary.media.MediaLibraryItem"/>
         <variable
             name="holder"
-            type="org.videolan.vlc.gui.SearchResultAdapter.ViewHolder" />
+            type="com.shera.internexttv.gui.SearchResultAdapter.ViewHolder" />
         <variable
             name="handler"
-            type="org.videolan.vlc.gui.SearchActivity.ClickHandler" />
+            type="com.shera.internexttv.gui.SearchActivity.ClickHandler" />
         <variable
             name="bgColor"
             type="int" />

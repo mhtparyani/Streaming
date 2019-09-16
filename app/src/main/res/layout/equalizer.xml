@@ -6,7 +6,7 @@
 
         <variable
                 name="state"
-                type="org.videolan.vlc.gui.audio.EqualizerFragment.EqualizerState"/>
+                type="com.shera.internexttv.gui.audio.EqualizerFragment.EqualizerState"/>
     </data>
 
     <androidx.core.widget.NestedScrollView

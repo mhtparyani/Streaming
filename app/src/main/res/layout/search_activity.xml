@@ -7,7 +7,7 @@
             type="org.videolan.medialibrary.media.SearchAggregate" />
         <variable
             name="handler"
-            type="org.videolan.vlc.gui.SearchActivity.ClickHandler" />
+            type="com.shera.internexttv.gui.SearchActivity.ClickHandler" />
     </data>
     <LinearLayout
         android:layout_width="match_parent"

@@ -4,7 +4,7 @@
         <import type="android.view.View" />
         <variable
             name="option"
-            type="org.videolan.vlc.gui.dialogs.CtxOption" />
+            type="com.shera.internexttv.gui.dialogs.CtxOption" />
     </data>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"

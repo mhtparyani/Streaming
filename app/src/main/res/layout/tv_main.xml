@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/transparent">
     <fragment
-          android:name="org.videolan.vlc.gui.tv.MainTvFragment"
+          android:name="com.shera.internexttv.gui.tv.MainTvFragment"
           android:id="@+id/browse_fragment"
           android:layout_width="match_parent"
           android:layout_height="match_parent" />

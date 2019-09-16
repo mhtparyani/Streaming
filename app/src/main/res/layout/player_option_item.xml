@@ -3,7 +3,7 @@
     <data>
         <variable
             name="option"
-            type="org.videolan.vlc.gui.helpers.PlayerOption" />
+            type="com.shera.internexttv.gui.helpers.PlayerOption" />
     </data>
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
                                                        xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -44,7 +44,7 @@
 
         <variable
             name="holder"
-            type="org.videolan.vlc.gui.video.VideoListAdapter.ViewHolder" />
+            type="com.shera.internexttv.gui.video.VideoListAdapter.ViewHolder" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -58,7 +58,7 @@
         android:padding="5dp"
         android:background="@{bgColor}"
         android:orientation="horizontal">
-        <!-- Image loading is handled by org.videolan.vlc.gui.helpers.ImageLoader.loadImage() -->
+        <!-- Image loading is handled by com.shera.internexttv.gui.helpers.ImageLoader.loadImage() -->
         <ImageView
             android:id="@+id/ml_item_thumbnail"
             android:layout_width="128dp"

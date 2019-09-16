@@ -17,7 +17,7 @@
 
         <variable
             name="holder"
-            type="org.videolan.vlc.gui.folders.FoldersAdapter.ViewHolder" />
+            type="com.shera.internexttv.gui.folders.FoldersAdapter.ViewHolder" />
     </data>
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

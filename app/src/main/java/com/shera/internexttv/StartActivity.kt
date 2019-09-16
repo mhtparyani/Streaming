@@ -87,7 +87,7 @@ class StartActivity : FragmentActivity() {
         super.onCreate(savedInstanceState)
 
         try {
-            if (!Settings.showTvUi && BuildConfig.BETA && !Settings.getInstance(this).getBoolean(BETA_WELCOME, false)) {
+            if (!Settings.showTvUi && !Settings.getInstance(this).getBoolean(BETA_WELCOME, false)) {
                 val intent = Intent(this, BetaWelcomeActivity::class.java)
                 intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION)
                 startActivityForResult(intent, SEND_CRASH_RESULT)
@@ -139,7 +139,7 @@ class StartActivity : FragmentActivity() {
         if (upgrade && (tv || !firstRun)) settings.edit().putInt(PREF_FIRST_RUN, currentVersionNumber).apply()
         // Route search query
         if (Intent.ACTION_SEARCH == action || "com.google.android.gms.actions.SEARCH_ACTION" == action) {
-            startActivity(intent.setClass(this, if (tv) org.videolan.vlc.gui.tv.SearchActivity::class.java else SearchActivity::class.java))
+            startActivity(intent.setClass(this, if (tv) com.shera.internexttv.gui.tv.SearchActivity::class.java else SearchActivity::class.java))
             finish()
             return
         } else if (MediaStore.INTENT_ACTION_MEDIA_PLAY_FROM_SEARCH == action) {

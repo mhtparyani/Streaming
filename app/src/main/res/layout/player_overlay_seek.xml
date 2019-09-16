@@ -20,7 +20,7 @@
             android:id="@+id/seek_background"
             android:background="@drawable/video_list_length_bg"/>
 
-    <org.videolan.vlc.gui.view.HalfCircleView
+    <com.shera.internexttv.gui.view.HalfCircleView
             android:id="@+id/leftContainerBackground"
             android:layout_width="0dp"
             android:layout_height="0dp"
@@ -32,7 +32,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"/>
 
-    <org.videolan.vlc.gui.view.HalfCircleView
+    <com.shera.internexttv.gui.view.HalfCircleView
             android:id="@+id/rightContainerBackground"
             android:layout_width="0dp"
             android:layout_height="0dp"

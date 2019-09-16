@@ -6,6 +6,7 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
 
@@ -18,6 +19,7 @@ import com.shera.internexttv.controller.Controller;
 import com.shera.internexttv.utils.Constant;
 import com.shera.internexttv.utils.Utils;
 import com.shera.internexttv.view.channel.ChannelListActivity;
+import com.shera.internexttv.view.live.LiveActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -30,17 +32,17 @@ public class LoginActivity extends AppCompatActivity {
 
     @BindView(R.id.logo)
     ImageView logo;
-    @BindView(R.id.username_et)
+//    @BindView(R.id.username_et)
     TextInputEditText usernameEt;
-    @BindView(R.id.username_tl)
+//    @BindView(R.id.username_tl)
     TextInputLayout usernameTl;
-    @BindView(R.id.password_et)
+//    @BindView(R.id.password_et)
     TextInputEditText passwordEt;
-    @BindView(R.id.password_tl)
+//    @BindView(R.id.password_tl)
     TextInputLayout passwordTl;
-    @BindView(R.id.login_bt)
+//    @BindView(R.id.login_bt)
     Button loginBt;
-    @BindView(R.id.progressBar)
+//    @BindView(R.id.progressBar)
     ProgressCircula progressBar;
 
     SharedPreferences sharedPreferences;
@@ -48,7 +50,13 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ButterKnife.bind(this);
+//        ButterKnife.bind(this);
+        usernameEt=(TextInputEditText) findViewById(R.id.username_et);
+        usernameTl=(TextInputLayout) findViewById(R.id.username_tl);
+        passwordEt=(TextInputEditText) findViewById(R.id.password_et);
+        passwordTl=(TextInputLayout) findViewById(R.id.password_tl);
+        loginBt=(Button) findViewById(R.id.login_bt);
+        progressBar=(ProgressCircula) findViewById(R.id.progressBar);
         Utils.setTextChangeListener(usernameTl, usernameEt);
         Utils.setTextChangeListener(passwordTl, passwordEt);
         progressBar.setVisibility(View.GONE);
@@ -82,7 +90,7 @@ public class LoginActivity extends AppCompatActivity {
                 if (response.isSuccessful()) {
                     sharedPreferences.edit().putString(Constant.USER_KEY,usernameEt.getText().toString()).apply();
                     sharedPreferences.edit().putString(Constant.PASS_KEY,passwordEt.getText().toString()).apply();
-                    Intent i= new Intent(LoginActivity.this, ChannelListActivity.class);
+                    Intent i= new Intent(LoginActivity.this, LiveActivity.class);
                     startActivity(i);
                     finish();
                 }else {

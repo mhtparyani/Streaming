@@ -14,7 +14,7 @@ import com.shera.internexttv.R
 class GenericCardPresenter @JvmOverloads constructor(context: Context, cardThemeResId: Int = R.style.VLCGenericCardView) : Presenter() {
 
     val context: ContextThemeWrapper = ContextThemeWrapper(context, cardThemeResId)
-    val padding = context.resources.getDimension(org.videolan.vlc.R.dimen.tv_card_padding).toInt()
+    val padding = context.resources.getDimension(com.shera.internexttv.R.dimen.tv_card_padding).toInt()
 
 
     init {

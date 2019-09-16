@@ -29,13 +29,13 @@ import android.widget.ListView
 import androidx.fragment.app.FragmentActivity
 import com.google.android.material.snackbar.Snackbar
 import org.videolan.libvlc.util.AndroidUtil
-import com.shera.internexttv.DebugLogService
+//import com.shera.internexttv.DebugLogService
 import com.shera.internexttv.R
 import com.shera.internexttv.gui.helpers.UiTools
 import com.shera.internexttv.util.Permissions
 
-class DebugLogActivity : FragmentActivity(), DebugLogService.Client.Callback {
-    private lateinit var client: DebugLogService.Client
+class DebugLogActivity : FragmentActivity()/*, DebugLogService.Client.Callback */{
+//    private lateinit var client: DebugLogService.Client
     private lateinit var startButton: Button
     private lateinit var stopButton: Button
     private lateinit var copyButton: Button
@@ -48,27 +48,27 @@ class DebugLogActivity : FragmentActivity(), DebugLogService.Client.Callback {
     private val startClickListener = View.OnClickListener {
         startButton.isEnabled = false
         stopButton.isEnabled = false
-        client.start()
+//        client.start()
     }
 
     private val stopClickListener = View.OnClickListener {
         startButton.isEnabled = false
         stopButton.isEnabled = false
-        client.stop()
+//        client.stop()
     }
 
     private val clearClickListener = View.OnClickListener {
-        client.clear()
+//        client.clear()
         logList.clear()
         logAdapter.notifyDataSetChanged()
         setOptionsButtonsEnabled(false)
     }
 
     private val saveClickListener = View.OnClickListener {
-        if (AndroidUtil.isOOrLater && !Permissions.canWriteStorage())
-            Permissions.askWriteStoragePermission(this@DebugLogActivity, false, Runnable { client.save() })
-        else
-            client.save()
+//        if (AndroidUtil.isOOrLater && !Permissions.canWriteStorage())
+//            Permissions.askWriteStoragePermission(this@DebugLogActivity, false, Runnable { client.save() })
+//        else
+//            client.save()
     }
 
     private val copyClickListener = View.OnClickListener { v ->
@@ -93,7 +93,7 @@ class DebugLogActivity : FragmentActivity(), DebugLogService.Client.Callback {
         clearButton = findViewById(R.id.clear_log)
         saveButton = findViewById(R.id.save_to_file)
 
-        client = DebugLogService.Client(this, this)
+//        client = DebugLogService.Client(this, this)
 
         startButton.isEnabled = false
         stopButton.isEnabled = false
@@ -108,7 +108,7 @@ class DebugLogActivity : FragmentActivity(), DebugLogService.Client.Callback {
     }
 
     override fun onDestroy() {
-        client.release()
+//        client.release()
         super.onDestroy()
     }
 
@@ -118,39 +118,39 @@ class DebugLogActivity : FragmentActivity(), DebugLogService.Client.Callback {
         saveButton.isEnabled = enabled
     }
 
-    override fun onStarted(logList: List<String>) {
-        startButton.isEnabled = false
-        stopButton.isEnabled = true
-        if (logList.isNotEmpty())
-            setOptionsButtonsEnabled(true)
-        this.logList = ArrayList(logList)
-        logAdapter = ArrayAdapter(this, R.layout.debug_log_item, this.logList)
-        logView.adapter = logAdapter
-        logView.transcriptMode = ListView.TRANSCRIPT_MODE_NORMAL
-        if (this.logList.size > 0)
-            logView.setSelection(this.logList.size - 1)
-    }
-
-    override fun onStopped() {
-        startButton.isEnabled = true
-        stopButton.isEnabled = false
-    }
-
-    override fun onLog(msg: String) {
-        logList.add(msg)
-        if (::logAdapter.isInitialized) logAdapter.notifyDataSetChanged()
-        setOptionsButtonsEnabled(true)
-    }
-
-    override fun onSaved(success: Boolean, path: String) {
-        if (success) {
-            Snackbar.make(logView, String.format(
-                    getString(R.string.dump_logcat_success),
-                    path), Snackbar.LENGTH_LONG).show()
-        } else {
-            UiTools.snacker(window.decorView.findViewById(android.R.id.content), R.string.dump_logcat_failure)
-        }
-    }
+//    override fun onStarted(logList: List<String>) {
+//        startButton.isEnabled = false
+//        stopButton.isEnabled = true
+//        if (logList.isNotEmpty())
+//            setOptionsButtonsEnabled(true)
+//        this.logList = ArrayList(logList)
+//        logAdapter = ArrayAdapter(this, R.layout.debug_log_item, this.logList)
+//        logView.adapter = logAdapter
+//        logView.transcriptMode = ListView.TRANSCRIPT_MODE_NORMAL
+//        if (this.logList.size > 0)
+//            logView.setSelection(this.logList.size - 1)
+//    }
+//
+//    override fun onStopped() {
+//        startButton.isEnabled = true
+//        stopButton.isEnabled = false
+//    }
+//
+//    override fun onLog(msg: String) {
+//        logList.add(msg)
+//        if (::logAdapter.isInitialized) logAdapter.notifyDataSetChanged()
+//        setOptionsButtonsEnabled(true)
+//    }
+//
+//    override fun onSaved(success: Boolean, path: String) {
+//        if (success) {
+//            Snackbar.make(logView, String.format(
+//                    getString(R.string.dump_logcat_success),
+//                    path), Snackbar.LENGTH_LONG).show()
+//        } else {
+//            UiTools.snacker(window.decorView.findViewById(android.R.id.content), R.string.dump_logcat_failure)
+//        }
+//    }
 
     companion object {
         const val TAG = "VLC/DebugLogActivity"

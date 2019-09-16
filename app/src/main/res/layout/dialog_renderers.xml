@@ -6,7 +6,7 @@
         <import type="org.videolan.libvlc.RendererItem" />
         <variable
             name="holder"
-            type="org.videolan.vlc.gui.dialogs.RenderersDialog.RendererClickhandler" />
+            type="com.shera.internexttv.gui.dialogs.RenderersDialog.RendererClickhandler" />
     </data>
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="wrap_content"
